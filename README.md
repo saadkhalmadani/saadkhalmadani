@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=700&color=FF6B6B&center=true&vCenter=true&width=800&height=70&lines=DataOps+Engineer+%7C+Fresh+Graduate;Python+%7C+SQL+%7C+Big+Data+Enthusiast;Building+Scalable+Data+Pipelines+%F0%9F%9A%80;Ready+to+Make+Impact!" alt="Typing Animation" />
   
 </br></br>
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-khalmadani)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadkhalmadani)
-  
   [![Profile Views](https://komarev.com/ghpvc/?username=saadkhalmadani&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/saadkhalmadani)
   [![GitHub followers](https://img.shields.io/github/followers/saadkhalmadani?style=for-the-badge&color=orange&labelColor=black)](https://github.com/saadkhalmadani)
 </div>
@@ -229,8 +225,8 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
   
   <h3>🤝 Let's Connect & Build Something Amazing!</h3>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-khalmadani)
-  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saad.khalmadani@example.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-khalmadani)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadkhalmadani)
   
   <br><br>
   <em>⭐️ From Morocco 🇲🇦 with passion for data engineering ⭐️</em>
