@@ -15,41 +15,41 @@
 Hi! I'm **Saad Khalmadani**, a **DataOps Engineer** from Morocco 🇲🇦.  
 I specialize in building **scalable, automated, and reliable data pipelines** that bring raw data to life through **real-time analytics, automation, and visualization**.  
 
-### 🎯 What I'm passionate about:  
+### What I'm passionate about:  
 ```yaml
 Focus Areas:
-  - ⚡ Data Engineering: streaming, pipelines, databases
-  - 🔧 DevOps practices: CI/CD, containerization, automation  
-  - ☁️ Cloud & Big Data: Kafka, Spark, Superset, Kylin
-  - 📊 Real-time Analytics: IoT data processing & visualization
+  - Data Engineering: streaming, pipelines, databases
+  - DevOps practices: CI/CD, containerization, automation  
+  - Cloud & Big Data: Kafka, Spark, Superset, Kylin
+  - Real-time Analytics: IoT data processing & visualization
 ```
 
 ---
 
-## 🚀 Career Roadmap  
+## Career Roadmap  
 
 <table>
 <tr>
-<td align="left"><strong>🎯 6 months</strong></td>
+<td align="left"><strong>6 months</strong></td>
 <td>Master <strong>DataOps & Cloud Infrastructure</strong> to ship production-ready pipelines</td>
 </tr>
 <tr>
-<td align="left"><strong>🌍 1–2 Years</strong></td>
+<td align="left"><strong>1–2 Years</strong></td>
 <td>Lead <strong>data engineering & architecture projects</strong>, focusing on <strong>real-time analytics</strong> and <strong>distributed systems</strong></td>
 </tr>
 <tr>
-<td align="left"><strong>✨ Future</strong></td>
+<td align="left"><strong>Future</strong></td>
 <td>Build impactful data-driven solutions that empower teams and communities</td>
 </tr>
 </table>
 
 ---
 
-## 🏆 Key Achievements  
+## Key Achievements  
 
 <div align="left">
 
-| 🚀 Performance | 📊 Data Processing | 🤖 Automation | 📈 Visualization |
+| Performance | Data Processing | Automation | Visualization |
 |:---:|:---:|:---:|:---:|
 | **40% faster** SQL & MongoDB queries | **Real-time** Kafka pipelines for IoT | **10+ hours/week** saved via Python automation | **Interactive dashboards** with Superset & Streamlit |
 
@@ -60,7 +60,7 @@ Focus Areas:
 ## 🛠️ Tech Stack  
 
 <details>
-<summary>👨‍💻 Programming Languages</summary>
+<summary>Programming Languages</summary>
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -73,7 +73,7 @@ Focus Areas:
 </details>
 
 <details>
-<summary>🗄️ Databases & Storage</summary>
+<summary>Databases & Storage</summary>
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -87,7 +87,7 @@ Focus Areas:
 </details>
 
 <details>
-<summary>📊 Big Data & Streaming</summary>
+<summary>Big Data & Streaming</summary>
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
@@ -99,7 +99,7 @@ Focus Areas:
 </details>
 
 <details>
-<summary>🚀 DevOps & Infrastructure</summary>
+<summary>DevOps & Infrastructure</summary>
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -110,7 +110,7 @@ Focus Areas:
 </details>
 
 <details>
-<summary>🛠️ Development Tools</summary>
+<summary>Development Tools</summary>
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
@@ -121,7 +121,7 @@ Focus Areas:
 </details>
 
 <details>
-<summary>🎨 Design & Visualization</summary>
+<summary>Design & Visualization</summary>
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
@@ -134,11 +134,11 @@ Focus Areas:
 
 ---
 
-## 📌 Featured Projects  
+## Featured Projects  
 
 <div align="left">
 
-### 🎮 [DofusDataForge](https://github.com/saadkhalmadani/DofusDataForge-project)
+### [DofusDataForge](https://github.com/saadkhalmadani/DofusDataForge-project)
 **Data scraping + visualization project**
 
 <a href="https://dofusdataforge-project.streamlit.app/">
@@ -148,10 +148,10 @@ Focus Areas:
 
 ```yaml
 Features:
-  - 🕷️ Extracts structured monster data from Dofus Touch encyclopedia
-  - 🗄️ PostgreSQL storage with multiple export formats (CSV/JSON/Parquet)
-  - 📊 Interactive Streamlit dashboard with real-time data visualization
-  - 🔍 Advanced filtering and search capabilities
+  - Extracts structured monster data from Dofus Touch encyclopedia
+  - PostgreSQL storage with multiple export formats (CSV/JSON/Parquet)
+  - Interactive Streamlit dashboard with real-time data visualization
+  - Advanced filtering and search capabilities
 
 Tech Stack: Python • Selenium • BeautifulSoup • PostgreSQL • Streamlit • Pandas • NumPy
 ```
@@ -161,10 +161,10 @@ Tech Stack: Python • Selenium • BeautifulSoup • PostgreSQL • Streamlit �
 
 ```yaml
 Architecture:
-  - 📡 Real-time sensor data ingestion with Apache Kafka
-  - ⚡ Stream processing powered by Apache Spark  
-  - 📊 Interactive analytics dashboards in Apache Superset
-  - 🔄 Change Data Capture (CDC) with Debezium
+  - Real-time sensor data ingestion with Apache Kafka
+  - Stream processing powered by Apache Spark  
+  - Interactive analytics dashboards in Apache Superset
+  - Change Data Capture (CDC) with Debezium
 
 Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
 ```
@@ -173,7 +173,7 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
 
 ---
 
-## 📊 GitHub Analytics  
+## GitHub Analytics  
 
 <div align="left">
 
@@ -192,7 +192,7 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadkhalmadani&theme=tokyo-night&hide_border=true&area=true" width="100%" />
@@ -200,11 +200,11 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
 
 ---
 
-## 🌱 Currently Exploring  
+## Currently Exploring  
 
 <div align="left">
 
-| 🎯 Focus Area | 🛠️ Technologies | 📚 Learning Path |
+| Focus Area | 🛠Technologies | Learning Path |
 |:---:|:---:|:---:|
 | **Cloud-Native** | Kubernetes • Terraform | Container orchestration |
 | **Data Mesh** | Kafka • Event Streaming | Distributed data architecture |  
@@ -212,7 +212,7 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
 
 ---
 
-## ⚡ Fun Fact  
+## Fun Fact  
 
 <div align="left">
   <em>☕ By day I automate <strong>data pipelines</strong>, by night I perfect the art of <strong>Moroccan mint tea</strong> 🍵✨</em>
