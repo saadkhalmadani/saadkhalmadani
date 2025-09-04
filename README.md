@@ -141,7 +141,9 @@ Focus Areas:
 ### 🎮 [DofusDataForge](https://github.com/saadkhalmadani/DofusDataForge-project)
 **Data scraping + visualization project**
 
-<img src="https://img.shields.io/badge/🚀%20Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/>
+<a href="https://dofusdataforge-project.streamlit.app/">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/>
+</a>
 <img src="https://img.shields.io/badge/Login:%20bob%20|%20Pass:%20bobpass-4CAF50?style=for-the-badge" alt="Credentials"/>
 
 ```yaml
