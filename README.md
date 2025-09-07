@@ -186,7 +186,7 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
   <br/><br/>
 
   <!-- Top Languages -->
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadkhalmadani&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadkhalmadani&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" alt="Top Languages" />
 
   <br/><br/>
 
