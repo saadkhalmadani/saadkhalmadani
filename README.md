@@ -145,9 +145,7 @@ Focus Areas:
   <img src="https://img.shields.io/badge/🚀%20Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
 </a>
 
-**🔑 Login:** bob  
-**🔒 Pass:** bobpass
-
+**🔑 Login:** bob    **🔒 Pass:** bobpass
 
 ```yaml
 Features:
