@@ -135,26 +135,14 @@ Focus Areas:
 ---
 
 ## Featured Projects  
-
 <div align="left">
-
-### [DofusDataForge](https://github.com/saadkhalmadani/DofusDataForge-project)
-**Data scraping + visualization project**
-
+DofusDataForge
+Data scraping + visualization project
 <a href="https://dofusdataforge-project.streamlit.app/">
-  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/>
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/>
 </a>
 <img src="https://img.shields.io/badge/login%3Abob%20%7C%20pass%3Abobpass-4CAF50?style=for-the-badge" alt="credentials"/>
 
-```yaml
-Features:
-  - Extracts structured monster data from Dofus Touch encyclopedia
-  - PostgreSQL storage with multiple export formats (CSV/JSON/Parquet)
-  - Interactive Streamlit dashboard with real-time data visualization
-  - Advanced filtering and search capabilities
-
-Tech Stack: Python • Selenium • BeautifulSoup • PostgreSQL • Streamlit • Pandas • NumPy
-```
 
 ### [Realtime CDC Streaming](https://github.com/saadkhalmadani/realtime-cdc-streaming-project)
 **IoT Data Streaming Pipeline**
