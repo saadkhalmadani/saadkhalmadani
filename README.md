@@ -144,7 +144,7 @@ Focus Areas:
 <a href="https://dofusdataforge-project.streamlit.app/">
   <img src="https://img.shields.io/badge/🚀%20Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/>
 </a>
-<img src="https://img.shields.io/badge/Login:bob|Pass:bobpass-4CAF50?style=for-the-badge" alt="Credentials"/>
+<img src="https://img.shields.io/badge/Login:%20bob%20|%20Pass:%20bobpass-4CAF50?style=for-the-badge" alt="Credentials"/>
 
 ```yaml
 Features:
@@ -186,7 +186,7 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
   <br/><br/>
 
   <!-- Top Languages -->
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadkhalmadani&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadkhalmadani&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" alt="Top Languages" />
 
   <br/><br/>
 
