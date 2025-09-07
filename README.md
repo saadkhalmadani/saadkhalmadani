@@ -142,7 +142,7 @@ Focus Areas:
 **Data scraping + visualization project**
 
 <a href="https://dofusdataforge-project.streamlit.app/">
-  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/>
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/>
 </a>
 <img src="https://img.shields.io/badge/login%3Abob%20%7C%20pass%3Abobpass-4CAF50?style=for-the-badge" alt="credentials"/>
 
