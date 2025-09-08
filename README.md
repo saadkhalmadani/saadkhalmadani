@@ -186,12 +186,6 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
     </td>
   </tr>
 </table>
-<!-- Mobile alternative: Stack vertically -->
-<div style="display: none;">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&rank_icon=github&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&custom_title=GitHub%20Statistics" alt="Saad's GitHub Stats" style="width: 100%; max-width: 400px; margin-bottom: 16px;" />
-  <img src="https://streak-stats.demolab.com?user=saadkhalmadani&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Saad's GitHub Streak" style="width: 100%; max-width: 400px;" />
-</div>
-<br />
 <!-- Top Languages with responsive sizing -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saadkhalmadani&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&cache_seconds=86400&custom_title=Most%20Used%20Languages&card_width=400" alt="Saad's Top Languages" style="width: 100%; max-width: 400px; height: auto;" />
 <br /><br />
