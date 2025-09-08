@@ -283,31 +283,12 @@ Tech Stack: Python • MLflow • Apache Airflow • Docker • Kubernetes
 
 ---
 
-## 💼 Professional Experience & Certifications
+## 💼 Professional Experience
 
 <div align="left">
 
 **🎓 Fresh Graduate** - Engineering Degree in Computer Science  
 **🌟 Focus Areas:** DataOps Engineering, Big Data Analytics, Real-time Systems
-
-**📚 Continuous Learning:**
-- Advanced SQL Performance Tuning
-- Apache Kafka Certification (In Progress)
-- AWS Solutions Architect Associate (Planned 2025)
-
-</div>
-
----
-
-## 🎯 2025 Goals
-
-<div align="left">
-
-- [ ] **Cloud Certification**: Complete AWS Solutions Architect Associate
-- [ ] **Open Source**: Contribute to 3+ Apache projects (Kafka, Spark, Airflow)
-- [ ] **Leadership**: Mentor junior developers and lead a data engineering project
-- [ ] **Innovation**: Build and deploy a machine learning pipeline in production
-- [ ] **Community**: Speak at 2+ tech meetups about DataOps best practices
 
 </div>
 
@@ -335,8 +316,6 @@ Looking for opportunities to contribute to innovative data engineering projects 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-khalmadani)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadkhalmadani)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saad.khalmadani@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://saadkhalmadani.dev)
 
 **📍 Location**: Casablanca, Morocco 🇲🇦  
 **🕒 Timezone**: GMT+1 (Available for global remote work)  
