@@ -213,6 +213,8 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
   <h3 style="color: #80a5fd;">📊 Detailed Analytics</h3>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadkhalmadani&theme=tokyonight" alt="Profile Summary" style="width: 80%; max-width: 800px; height: auto;" />
   
+<br /><br />
+
   <br />
   <table style="border-collapse: collapse; border: none;">
     <tr>
@@ -242,8 +244,6 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
     <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Public%20Repos&labelColor=1a1b27&color=38bdae&style=for-the-badge&query=%24.public_repos&url=https://api.github.com/users/saadkhalmadani" alt="Public Repos" style="margin: 3px;" />
   </div>
 </div>
-
-<br /><br />
 
 <div style="margin-top: 20px; font-size: 12px; color: #666; font-style: italic;">
 </div>
