@@ -241,12 +241,6 @@ Tech Stack: Python • MLflow • Apache Airflow • Docker • Kubernetes
 
 ---
 
-<!-- GitHub Trophies -->
-<div style="margin: 30px 0;">
-  <h3 style="color: #80a5fd;">🏆 GitHub Achievements</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=saadkhalmadani&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=4&row=2&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Saad's GitHub Trophies" style="width: 80%; max-width: 400px; height: auto;" />
-</div>
-
 <!-- Advanced Stats -->
 <div style="margin: 30px 0;">
   <h3 style="color: #80a5fd;">📊 Detailed Analytics</h3>
