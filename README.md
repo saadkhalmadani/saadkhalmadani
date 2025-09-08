@@ -207,25 +207,23 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
   <img src="https://github-profile-trophy.vercel.app/?username=saadkhalmadani&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=4&row=2&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Saad's GitHub Trophies" style="width: 80%; max-width: 400px; height: auto;" />
 </div>
 
-
 <!-- Advanced Stats -->
 <div style="margin: 30px 0;">
   <h3 style="color: #80a5fd;">📊 Detailed Analytics</h3>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadkhalmadani&theme=tokyonight" alt="Profile Summary" style="width: 80%; max-width: 800px; height: auto;" />
   
-<br /><br />
+<br /> <br />
 
-  <br />
   <table style="border-collapse: collapse; border: none;">
     <tr>
       <td style="padding: 4px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadkhalmadani&theme=tokyonight" alt="Repos per Language" style="width: 80%; max-width: 180px; height: auto;" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadkhalmadani&theme=tokyonight" alt="Repos per Language" style="width: 80%; max-width: 280px; height: auto;" />
       </td>
       <td style="padding: 4px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saadkhalmadani&theme=tokyonight" alt="Most Commit Language" style="width: 80%; max-width: 180px; height: auto;" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saadkhalmadani&theme=tokyonight" alt="Most Commit Language" style="width: 80%; max-width: 280px; height: auto;" />
       </td>
       <td style="padding: 4px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadkhalmadani&theme=tokyonight" alt="Stats Overview" style="width: 80%; max-width: 180px; height: auto;" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadkhalmadani&theme=tokyonight" alt="Stats Overview" style="width: 80%; max-width: 280px; height: auto;" />
       </td>
     </tr>
   </table>
