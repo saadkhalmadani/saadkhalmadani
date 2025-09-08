@@ -189,27 +189,6 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
 
 <br />
 
-<div>
-  <picture>
-    <source media="(min-width: 768px)" srcset="https://streak-stats.demolab.com?user=saadkhalmadani&theme=tokyonight&hide_border=true&cache_seconds=86400">
-    <img src="https://streak-stats.demolab.com?user=saadkhalmadani&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Saad's GitHub Streak" style="max-width: 100%; height: auto;" />
-  </picture>
-</div>
-
-<!-- Alternative: CSS Grid Layout for Desktop (GitHub doesn't support CSS, so using table) -->
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&rank_icon=github&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&custom_title=GitHub%20Statistics" alt="Saad's GitHub Stats" width="100%" style="max-width: 400px;" />
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=saadkhalmadani&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Saad's GitHub Streak" width="100%" style="max-width: 400px;" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
 <!-- Top Languages - Responsive -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saadkhalmadani&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=12&hide_border=true&cache_seconds=86400&custom_title=Most%20Used%20Languages" alt="Saad's Top Languages" style="max-width: 100%; width: auto;" />
