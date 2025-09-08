@@ -203,8 +203,6 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
 
 ---
 
----
-
 ## Currently Exploring  
 
 <div align="left">
