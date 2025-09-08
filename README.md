@@ -208,11 +208,6 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
 
 <br />
 
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saadkhalmadani&label=Profile%20Views&color=0891b2&style=flat-square&cache_seconds=86400" alt="Profile Views" />
-</div>
-
 </div>
 
 ---
