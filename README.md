@@ -265,7 +265,7 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
 ## Fun Fact  
 
 <div align="left">
-  <em>⚡ By day I automate <strong>data pipelines</strong>, by night I perfect the art of <strong>Moroccan mint tea</strong> ☕</em>
+  <em>⚡ I love exploring <strong>new tech</strong>strong> and solving challenging problems! </em>
 </div>
 
 ---
