@@ -201,9 +201,13 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
 </table>
 
 <!-- Contribution Graph -->
-<div style="margin: 25px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadkhalmadani&theme=tokyonight&hide_border=true&area=true&height=300&custom_title=🚀%20Contribution%20Activity%20Timeline&color=80a5fd&line=bf91f3&point=ff6b6b&area_color=38bdae&title_color=80a5fd&bg_color=1a1b27" alt="Saad's Contribution Graph" style="width: 100%; max-width: 1000px; height: auto; border-radius: 10px;" />
-</div>
+# 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=saadkhalmadani&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=saadkhalmadani&icon=8&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- GitHub Trophies -->
 <div style="margin: 30px 0;">
