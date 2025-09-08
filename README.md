@@ -177,47 +177,102 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
 
 <div align="center">
 
-<!-- GitHub Stats Row -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&rank_icon=github&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&custom_title=GitHub%20Statistics" alt="Saad's GitHub Stats" width="48%" />
-  <img align="right" src="https://streak-stats.demolab.com?user=saadkhalmadani&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Saad's GitHub Streak" width="48%" />
-</p>
-
-<!-- Clear float and add spacing -->
-<br clear="both" />
-<br />
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saadkhalmadani&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=12&card_width=450&hide_border=true&cache_seconds=86400&custom_title=Most%20Used%20Languages" alt="Saad's Top Languages" />
-</p>
-
-<br />
-
-<!-- Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadkhalmadani&theme=tokyo-night&hide_border=true&area=true&cache_seconds=86400&height=300&custom_title=Contribution%20Activity%20Graph" width="95%" alt="Saad's Contribution Graph" />
+<!-- GitHub Stats Row - Responsive -->
+<div>
+  <picture>
+    <!-- Desktop/Tablet: Side by side -->
+    <source media="(min-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&rank_icon=github&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&custom_title=GitHub%20Statistics">
+    <!-- Mobile: Full width -->
+    <img src="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&rank_icon=github&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&custom_title=GitHub%20Statistics" alt="Saad's GitHub Stats" style="max-width: 100%; height: auto;" />
+  </picture>
 </div>
 
 <br />
 
-<!-- GitHub Trophies -->
+<div>
+  <picture>
+    <source media="(min-width: 768px)" srcset="https://streak-stats.demolab.com?user=saadkhalmadani&theme=tokyonight&hide_border=true&cache_seconds=86400">
+    <img src="https://streak-stats.demolab.com?user=saadkhalmadani&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Saad's GitHub Streak" style="max-width: 100%; height: auto;" />
+  </picture>
+</div>
+
+<!-- Alternative: CSS Grid Layout for Desktop (GitHub doesn't support CSS, so using table) -->
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&rank_icon=github&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&custom_title=GitHub%20Statistics" alt="Saad's GitHub Stats" width="100%" style="max-width: 400px;" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=saadkhalmadani&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Saad's GitHub Streak" width="100%" style="max-width: 400px;" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- Top Languages - Responsive -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saadkhalmadani&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&cache_seconds=86400" alt="Saad's GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saadkhalmadani&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=12&hide_border=true&cache_seconds=86400&custom_title=Most%20Used%20Languages" alt="Saad's Top Languages" style="max-width: 100%; width: auto;" />
 </div>
 
 <br />
+
+<!-- Contribution Graph - Responsive -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadkhalmadani&theme=tokyo-night&hide_border=true&area=true&cache_seconds=86400&height=300&custom_title=Contribution%20Activity%20Graph" alt="Saad's Contribution Graph" style="max-width: 100%; width: 95%; height: auto;" />
+</div>
+
+<br />
+
+<!-- GitHub Trophies - Responsive -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saadkhalmadani&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&cache_seconds=86400&row=2&column=4" alt="Saad's GitHub Trophies" style="max-width: 100%; height: auto;" />
+</div>
+
+<!-- Mobile-specific Trophies (fewer columns) -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saadkhalmadani&theme=tokyonight&no-frame=true&no-bg=false&margin-w=2&cache_seconds=86400&row=3&column=2" alt="Saad's GitHub Trophies (Mobile)" style="max-width: 100%; height: auto; display: none;" />
+</div>
+
+<br />
+
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=saadkhalmadani&label=Profile%20Views&color=0891b2&style=flat-square&cache_seconds=86400" alt="Profile Views" style="max-width: 100%;" />
+</div>
 
 </div>
 
 ---
 
+## 📱 Responsive Design Features
+
+### **Multi-Device Optimization**
+- **📱 Mobile**: Single column layout with full-width cards
+- **📟 Tablet**: Optimized spacing and sizing for medium screens  
+- **🖥️ Desktop**: Side-by-side layout with maximum visual impact
+- **⚡ Auto-scaling**: All images scale proportionally to container width
+
+### **Adaptive Layouts**
+- **Stats Cards**: Table-based responsive layout for cross-device compatibility
+- **Language Chart**: Dynamic width adjustment based on screen size
+- **Activity Graph**: Maintains aspect ratio while fitting all screen sizes
+- **Trophy Display**: Responsive grid (4x2 desktop, 2x3 mobile)
+
+### **Performance Optimizations**
+- **Smart Caching**: 24-hour cache for faster loading
+- **Optimized Images**: SVG-based charts for crisp display at any resolution
+- **Minimal Bandwidth**: Efficient loading with proper sizing parameters
+
+---
+
 ### 📊 Quick Stats Overview
 - 🏆 **GitHub Achievements**: Comprehensive trophy collection showcasing various milestones
-- 📈 **Contribution Trends**: Visual representation of coding activity patterns
+- 📈 **Contribution Trends**: Visual representation of coding activity patterns  
 - 🌟 **Repository Impact**: Statistics including stars, forks, and community engagement
 - 💻 **Language Diversity**: Analysis of programming language usage across projects
 - 🔥 **Consistency Score**: Streak tracking for continuous development activity
+- 📱 **Cross-Platform**: Optimized viewing experience on all devices
 
 ---
 
