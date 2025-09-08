@@ -277,17 +277,6 @@ Tech Stack: Python • MLflow • Apache Airflow • Docker • Kubernetes
 
 ---
 
-## 💼 Professional Experience
-
-<div align="left">
-
-**🎓 Fresh Graduate** - Engineering Degree in Computer Science  
-**🌟 Focus Areas:** DataOps Engineering, Big Data Analytics, Real-time Systems
-
-</div>
-
----
-
 ## 💡 Fun Facts About Me
 
 <div align="left">
@@ -322,7 +311,3 @@ Looking for opportunities to contribute to innovative data engineering projects 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=saadkhalmadani&icon=8&color=0)](https://visitcount.itsvg.in)
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" />
-</div>
