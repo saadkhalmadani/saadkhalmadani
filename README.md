@@ -300,10 +300,6 @@ Looking for opportunities to contribute to innovative data engineering projects 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-khalmadani)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadkhalmadani)
 
-**📍 Location**: Casablanca, Morocco 🇲🇦  
-**🕒 Timezone**: GMT+1 (Available for global remote work)  
-**💼 Status**: Open to full-time DataOps/Data Engineering opportunities
-
 <br><br>
 <em>⭐ "Transforming raw data into actionable insights, one pipeline at a time" ⭐</em>
 </div>
