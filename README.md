@@ -211,9 +211,7 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
 <div style="margin: 30px 0;">
   <h3 style="color: #80a5fd;">📊 Detailed Analytics</h3>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadkhalmadani&theme=tokyonight" alt="Profile Summary" style="width: 80%; max-width: 800px; height: auto;" />
-  
-<br />
-
+<br /><br />
   <table style="border-collapse: collapse; border: none;">
     <tr>
       <td style="padding: 4px;">
