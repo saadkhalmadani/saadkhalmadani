@@ -235,8 +235,6 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
   <img src="https://img.shields.io/github/followers/saadkhalmadani?label=Followers&style=for-the-badge&color=80a5fd&labelColor=1a1b27" alt="GitHub Followers" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/GitHub-Pro-bf91f3?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="GitHub Pro" style="margin: 5px;" />
   
-  <br /><br />
-  
   <div>
     <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Total%20Stars&labelColor=1a1b27&color=ff6b6b&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/saadkhalmadani" alt="Total Stars" style="margin: 3px;" />
     <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Public%20Repos&labelColor=1a1b27&color=38bdae&style=for-the-badge&query=%24.public_repos&url=https://api.github.com/users/saadkhalmadani" alt="Public Repos" style="margin: 3px;" />
@@ -246,6 +244,7 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
 <div style="margin-top: 20px; font-size: 12px; color: #666; font-style: italic;">
 </div>
 </div>
+
 ---
 
 ## Currently Exploring  
