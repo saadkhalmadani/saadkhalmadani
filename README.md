@@ -265,7 +265,7 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
 ## Fun Fact  
 
 <div align="left">
-  <em>⚡ I love exploring <strong> new tech </strong>> and solving challenging problems! </em>
+  <em>⚡ I love exploring <strong> new tech </strong> and solving challenging problems! </em>
 </div>
 
 ---
