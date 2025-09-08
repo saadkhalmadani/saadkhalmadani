@@ -3,6 +3,7 @@
     
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=800&height=80&lines=DataOps+Engineer+%7C+Fresh+Graduate;Python+%7C+SQL+%7C+Big+Data+Enthusiast;Building+Scalable+Data+Pipelines+%F0%9F%9A%80;Ready+to+Make+Impact!" alt="Typing Animation" />
 </div>
+
 ---
 
 ## 👋 Hi there, Welcome!  
@@ -150,6 +151,7 @@ Features:
   - Advanced filtering and search capabilities
 
 Tech Stack: Python • Selenium • BeautifulSoup • PostgreSQL • Streamlit • Pandas • NumPy
+
 ```
 
 ### [Realtime CDC Streaming](https://github.com/saadkhalmadani/realtime-cdc-streaming-project)
@@ -163,11 +165,13 @@ Architecture:
   - Change Data Capture (CDC) with Debezium
 
 Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
+
 ```
 
 </div>
 
 ---
+
 # 📊 GitHub Analytics Dashboard
 
 <div align="center">
@@ -229,7 +233,7 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
 
 <!-- Footer -->
 <div style="margin-top: 35px; padding: 20px; border-radius: 15px; background: linear-gradient(45deg, #1a1b27, #24283b);">
-  <img src="https://komarev.com/ghpvc/?username=saadkhalmadani&label=Profile%20Views&color=bf91f3&style=for-the-badge" alt="Profile Views" style="margin: 5px;" />
+  <img src="https://komarev.com/ghpvc/?username=saadkhalmadani3&label=Profile%20Views&color=bf91f3&style=for-the-badge" alt="Profile Views" style="margin: 5px;" />
   <img src="https://img.shields.io/github/followers/saadkhalmadani?label=Followers&style=for-the-badge&color=80a5fd&labelColor=1a1b27" alt="GitHub Followers" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/GitHub-Pro-bf91f3?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="GitHub Pro" style="margin: 5px;" />
   
