@@ -211,19 +211,19 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
 <!-- Advanced Stats -->
 <div style="margin: 30px 0;">
   <h3 style="color: #70a5fd;">📊 Detailed Analytics</h3>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadkhalmadani&theme=tokyonight" alt="Profile Summary" style="width: 100%; max-width: 900px; height: auto;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadkhalmadani&theme=tokyonight" alt="Profile Summary" style="width: 60%; max-width: 700px; height: auto;" />
   
   <br />
   <table style="border-collapse: collapse; border: none;">
     <tr>
       <td style="padding: 4px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadkhalmadani&theme=tokyonight" alt="Repos per Language" style="width: 100%; max-width: 280px; height: auto;" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadkhalmadani&theme=tokyonight" alt="Repos per Language" style="width: 60%; max-width: 160px; height: auto;" />
       </td>
       <td style="padding: 4px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saadkhalmadani&theme=tokyonight" alt="Most Commit Language" style="width: 100%; max-width: 280px; height: auto;" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saadkhalmadani&theme=tokyonight" alt="Most Commit Language" style="width: 60%; max-width: 180px; height: auto;" />
       </td>
       <td style="padding: 4px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadkhalmadani&theme=tokyonight" alt="Stats Overview" style="width: 100%; max-width: 280px; height: auto;" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadkhalmadani&theme=tokyonight" alt="Stats Overview" style="width: 60%; max-width: 180px; height: auto;" />
       </td>
     </tr>
   </table>
