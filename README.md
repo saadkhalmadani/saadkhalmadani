@@ -173,25 +173,56 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
 </div>
 
 ---
-.
-🚀 GitHub Analytics
+# 🚀 GitHub Analytics
+
 <div align="center">
+
+<!-- GitHub Stats Row -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&rank_icon=github&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="Saad's GitHub Stats" width="48%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&rank_icon=github&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&custom_title=GitHub%20Statistics" alt="Saad's GitHub Stats" width="48%" />
   <img align="right" src="https://streak-stats.demolab.com?user=saadkhalmadani&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Saad's GitHub Streak" width="48%" />
 </p>
-  
-<br clear="both" />
 
+<!-- Clear float and add spacing -->
+<br clear="both" />
+<br />
+
+<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saadkhalmadani&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&card_width=400&hide_border=true&cache_seconds=86400" alt="Saad's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saadkhalmadani&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=12&card_width=450&hide_border=true&cache_seconds=86400&custom_title=Most%20Used%20Languages" alt="Saad's Top Languages" />
 </p>
 
+<br />
 
+<!-- Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadkhalmadani&theme=tokyo-night&hide_border=true&area=true&cache_seconds=86400" width="95%" alt="Saad's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadkhalmadani&theme=tokyo-night&hide_border=true&area=true&cache_seconds=86400&height=300&custom_title=Contribution%20Activity%20Graph" width="95%" alt="Saad's Contribution Graph" />
 </div>
+
+<br />
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saadkhalmadani&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&cache_seconds=86400" alt="Saad's GitHub Trophies" />
 </div>
+
+<br />
+
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=saadkhalmadani&label=Profile%20Views&color=0891b2&style=flat-square&cache_seconds=86400" alt="Profile Views" />
+</div>
+
+</div>
+
+---
+
+### 📊 Quick Stats Overview
+- 🏆 **GitHub Achievements**: Comprehensive trophy collection showcasing various milestones
+- 📈 **Contribution Trends**: Visual representation of coding activity patterns
+- 🌟 **Repository Impact**: Statistics including stars, forks, and community engagement
+- 💻 **Language Diversity**: Analysis of programming language usage across projects
+- 🔥 **Consistency Score**: Streak tracking for continuous development activity
 
 ---
 
