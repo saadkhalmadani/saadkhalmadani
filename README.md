@@ -229,18 +229,6 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
   <img src="https://github-profile-trophy.vercel.app/?username=saadkhalmadani&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&cache_seconds=86400&row=2&column=4" alt="Saad's GitHub Trophies" style="max-width: 100%; height: auto;" />
 </div>
 
-<!-- Mobile-specific Trophies (fewer columns) -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saadkhalmadani&theme=tokyonight&no-frame=true&no-bg=false&margin-w=2&cache_seconds=86400&row=3&column=2" alt="Saad's GitHub Trophies (Mobile)" style="max-width: 100%; height: auto; display: none;" />
-</div>
-
-<br />
-
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saadkhalmadani&label=Profile%20Views&color=0891b2&style=flat-square&cache_seconds=86400" alt="Profile Views" style="max-width: 100%;" />
-</div>
-
 </div>
 
 ---
