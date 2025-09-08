@@ -175,57 +175,34 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
 ---
 🚀 GitHub Analytics
 <div align="center">
-<!-- GitHub Stats Row - Responsive -->
-<div>
-  <picture>
-    <!-- Desktop/Tablet: Side by side -->
-    <source media="(min-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&rank_icon=github&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&custom_title=GitHub%20Statistics">
-    <!-- Mobile: Full width -->
-    <img src="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&rank_icon=github&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&custom_title=GitHub%20Statistics" alt="Saad's GitHub Stats" style="max-width: 100%; height: auto;" />
-  </picture>
-</div>
-<br />
-<div>
-  <picture>
-    <source media="(min-width: 768px)" srcset="https://streak-stats.demolab.com?user=saadkhalmadani&theme=tokyonight&hide_border=true&cache_seconds=86400">
-    <img src="https://streak-stats.demolab.com?user=saadkhalmadani&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Saad's GitHub Streak" style="max-width: 100%; height: auto;" />
-  </picture>
-</div>
-<!-- Alternative: CSS Grid Layout for Desktop (GitHub doesn't support CSS, so using table) -->
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&rank_icon=github&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&custom_title=GitHub%20Statistics" alt="Saad's GitHub Stats" width="100%" style="max-width: 400px;" />
+<!-- Mobile: Single column, Desktop: Side by side using HTML table -->
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 8px; vertical-align: top;">
+      <img src="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&rank_icon=github&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&custom_title=GitHub%20Statistics" alt="Saad's GitHub Stats" style="width: 100%; max-width: 495px; height: auto; display: block;" />
     </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=saadkhalmadani&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Saad's GitHub Streak" width="100%" style="max-width: 400px;" />
+    <td align="center" style="border: none; padding: 8px; vertical-align: top;">
+      <img src="https://streak-stats.demolab.com?user=saadkhalmadani&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Saad's GitHub Streak" style="width: 100%; max-width: 495px; height: auto; display: block;" />
     </td>
   </tr>
 </table>
-<br />
-<!-- Top Languages - Responsive -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saadkhalmadani&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=12&hide_border=true&cache_seconds=86400&custom_title=Most%20Used%20Languages" alt="Saad's Top Languages" style="max-width: 100%; width: auto;" />
+<!-- Mobile alternative: Stack vertically -->
+<div style="display: none;">
+  <img src="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&rank_icon=github&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&custom_title=GitHub%20Statistics" alt="Saad's GitHub Stats" style="width: 100%; max-width: 400px; margin-bottom: 16px;" />
+  <img src="https://streak-stats.demolab.com?user=saadkhalmadani&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Saad's GitHub Streak" style="width: 100%; max-width: 400px;" />
 </div>
 <br />
-<!-- Contribution Graph - Responsive -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadkhalmadani&theme=tokyo-night&hide_border=true&area=true&cache_seconds=86400&height=300&custom_title=Contribution%20Activity%20Graph" alt="Saad's Contribution Graph" style="max-width: 100%; width: 95%; height: auto;" />
-</div>
-<br />
-<!-- GitHub Trophies - Responsive -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saadkhalmadani&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&cache_seconds=86400&row=2&column=4" alt="Saad's GitHub Trophies" style="max-width: 100%; height: auto;" />
-</div>
-<!-- Mobile-specific Trophies (fewer columns) -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saadkhalmadani&theme=tokyonight&no-frame=true&no-bg=false&margin-w=2&cache_seconds=86400&row=3&column=2" alt="Saad's GitHub Trophies (Mobile)" style="max-width: 100%; height: auto; display: none;" />
-</div>
+<!-- Top Languages with responsive sizing -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=saadkhalmadani&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&cache_seconds=86400&custom_title=Most%20Used%20Languages&card_width=400" alt="Saad's Top Languages" style="width: 100%; max-width: 400px; height: auto;" />
+<br /><br />
+<!-- Contribution Graph with responsive width -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saadkhalmadani&theme=tokyo-night&hide_border=true&area=true&cache_seconds=86400&height=280&custom_title=Contribution%20Activity%20Graph" alt="Saad's Contribution Graph" style="width: 100%; max-width: 900px; height: auto;" />
+<br /><br />
+<!-- GitHub Trophies with responsive columns -->
+<img src="https://github-profile-trophy.vercel.app/?username=saadkhalmadani&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15&margin-h=15&cache_seconds=86400&column=4&row=2" alt="Saad's GitHub Trophies" style="width: 100%; max-width: 800px; height: auto;" />
 <br />
 <!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saadkhalmadani&label=Profile%20Views&color=0891b2&style=flat-square&cache_seconds=86400" alt="Profile Views" style="max-width: 100%;" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=saadkhalmadani&label=Profile%20Views&color=0891b2&style=flat-square&cache_seconds=86400" alt="Profile Views" />
 </div>
 ---
 
