@@ -2,11 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Saad%20KHALMADANI&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38" />
     
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=700&color=FF6B6B&center=true&vCenter=true&width=800&height=70&lines=DataOps+Engineer+%7C+Fresh+Graduate;Python+%7C+SQL+%7C+Big+Data+Enthusiast;Building+Scalable+Data+Pipelines+%F0%9F%9A%80;Ready+to+Make+Impact!" alt="Typing Animation" />
-  
-</br></br>
-  [![GitHub followers](https://img.shields.io/github/followers/saadkhalmadani?style=for-the-badge&color=orange&labelColor=black)](https://github.com/saadkhalmadani)
 </div>
-
 ---
 
 ## 👋 Hi there, Welcome!  
@@ -176,92 +172,82 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
 
 <div align="center">
 
-<!-- Hero Stats Section with improved spacing -->
+<!-- Hero Stats Section -->
 <table style="border-collapse: collapse; border: none; margin-bottom: 20px;">
-  <tr style="border: none;">
-    <td align="center" style="border: none; padding: 10px; vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&rank_icon=github&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&custom_title=📈%20GitHub%20Statistics&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" alt="Saad's GitHub Stats" style="width: 100%; max-width: 495px; height: auto; display: block;" />
+  <tr>
+    <td align="center" style="padding: 10px; vertical-align: top;">
+      <img src="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&rank_icon=github&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=📈%20GitHub%20Statistics&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" alt="Saad's GitHub Stats" style="width: 100%; max-width: 450px; height: auto;" />
     </td>
-    <td align="center" style="border: none; padding: 10px; vertical-align: top;">
-      <img src="https://streak-stats.demolab.com?user=saadkhalmadani&theme=tokyonight&hide_border=true&cache_seconds=86400&stroke=70a5fd&ring=bf91f3&fire=ff6b6b&currStreakLabel=38bdae" alt="Saad's GitHub Streak" style="width: 100%; max-width: 495px; height: auto; display: block;" />
+    <td align="center" style="padding: 10px; vertical-align: top;">
+      <img src="https://streak-stats.demolab.com?user=saadkhalmadani&theme=tokyonight&hide_border=true&stroke=70a5fd&ring=bf91f3&fire=ff6b6b&currStreakLabel=38bdae" alt="Saad's GitHub Streak" style="width: 100%; max-width: 450px; height: auto;" />
     </td>
   </tr>
 </table>
 
-<!-- Languages & Metrics Row -->
+<!-- Languages & Metrics -->
 <table style="border-collapse: collapse; border: none; margin-bottom: 25px;">
-  <tr style="border: none;">
-    <td align="center" style="border: none; padding: 10px; vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saadkhalmadani&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=12&hide_border=true&cache_seconds=86400&custom_title=🔥%20Most%20Used%20Languages&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27&card_width=445" alt="Saad's Top Languages" style="width: 100%; max-width: 445px; height: auto;" />
+  <tr>
+    <td align="center" style="padding: 10px; vertical-align: top;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saadkhalmadani&layout=compact&theme=tokyonight&langs_count=12&hide_border=true&custom_title=🔥%20Most%20Used%20Languages&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27&card_width=430" alt="Saad's Top Languages" style="width: 100%; max-width: 430px; height: auto;" />
     </td>
-    <td align="center" style="border: none; padding: 10px; vertical-align: top;">
-      <!-- Additional metrics card -->
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=saadkhalmadani&theme=tokyonight&hide_border=true&cache_seconds=86400&custom_title=⏰%20Weekly%20Coding%20Time&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27&layout=compact" alt="Saad's Wakatime Stats" style="width: 100%; max-width: 445px; height: auto;" />
+    <td align="center" style="padding: 10px; vertical-align: top;">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=saadkhalmadani&theme=tokyonight&hide_border=true&custom_title=⏰%20Weekly%20Coding%20Time&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27&layout=compact" alt="Saad's Wakatime Stats" style="width: 100%; max-width: 430px; height: auto;" />
     </td>
   </tr>
 </table>
 
-<!-- Enhanced Contribution Graph -->
+<!-- Contribution Graph -->
 <div style="margin: 25px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadkhalmadani&theme=tokyo-night&hide_border=true&area=true&cache_seconds=86400&height=320&custom_title=🚀%20Contribution%20Activity%20Timeline&color=70a5fd&line=bf91f3&point=ff6b6b&area_color=38bdae&title_color=70a5fd&bg_color=1a1b27" alt="Saad's Contribution Graph" style="width: 100%; max-width: 1000px; height: auto; border-radius: 10px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadkhalmadani&theme=tokyonight&hide_border=true&area=true&height=300&custom_title=🚀%20Contribution%20Activity%20Timeline&color=70a5fd&line=bf91f3&point=ff6b6b&area_color=38bdae&title_color=70a5fd&bg_color=1a1b27" alt="Saad's Contribution Graph" style="width: 100%; max-width: 1000px; height: auto; border-radius: 10px;" />
 </div>
 
-<!-- GitHub Trophies with better formatting -->
+<!-- GitHub Trophies -->
 <div style="margin: 30px 0;">
-  <h3 style="color: #70a5fd; margin-bottom: 15px;">🏆 GitHub Achievements</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=saadkhalmadani&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&margin-h=8&cache_seconds=86400&column=4&row=2&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Saad's GitHub Trophies" style="width: 100%; max-width: 900px; height: auto;" />
+  <h3 style="color: #70a5fd;">🏆 GitHub Achievements</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=saadkhalmadani&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=4&row=2&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Saad's GitHub Trophies" style="width: 100%; max-width: 850px; height: auto;" />
 </div>
 
-<!-- Advanced Stats Section -->
+<!-- Advanced Stats -->
 <div style="margin: 30px 0;">
-  <h3 style="color: #70a5fd; margin-bottom: 15px;">📊 Detailed Analytics</h3>
+  <h3 style="color: #70a5fd;">📊 Detailed Analytics</h3>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadkhalmadani&theme=tokyonight" alt="Profile Summary" style="width: 100%; max-width: 900px; height: auto;" />
+  
+  <br />
   <table style="border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-      <td align="center" style="border: none; padding: 8px; vertical-align: top;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadkhalmadani&theme=tokyonight&cache_seconds=86400" alt="Profile Summary" style="width: 100%; max-width: 900px; height: auto;" />
+    <tr>
+      <td style="padding: 4px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadkhalmadani&theme=tokyonight" alt="Repos per Language" style="width: 100%; max-width: 280px; height: auto;" />
       </td>
-    </tr>
-    <tr style="border: none;">
-      <td align="center" style="border: none; padding: 8px;">
-        <table style="border-collapse: collapse; border: none;">
-          <tr style="border: none;">
-            <td style="border: none; padding: 4px;">
-              <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadkhalmadani&theme=tokyonight&cache_seconds=86400" alt="Repos per Language" style="width: 100%; max-width: 300px; height: auto;" />
-            </td>
-            <td style="border: none; padding: 4px;">
-              <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saadkhalmadani&theme=tokyonight&cache_seconds=86400" alt="Most Commit Language" style="width: 100%; max-width: 300px; height: auto;" />
-            </td>
-            <td style="border: none; padding: 4px;">
-              <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadkhalmadani&theme=tokyonight&cache_seconds=86400" alt="Stats Overview" style="width: 100%; max-width: 300px; height: auto;" />
-            </td>
-          </tr>
-        </table>
+      <td style="padding: 4px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saadkhalmadani&theme=tokyonight" alt="Most Commit Language" style="width: 100%; max-width: 280px; height: auto;" />
+      </td>
+      <td style="padding: 4px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadkhalmadani&theme=tokyonight" alt="Stats Overview" style="width: 100%; max-width: 280px; height: auto;" />
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Footer with enhanced styling -->
+<!-- Footer -->
 <div style="margin-top: 35px; padding: 20px; border-radius: 15px; background: linear-gradient(45deg, #1a1b27, #24283b);">
-  <img src="https://komarev.com/ghpvc/?username=saadkhalmadani&label=Profile%20Views&color=bf91f3&style=for-the-badge&cache_seconds=86400" alt="Profile Views" style="margin: 5px;" />
+  <img src="https://komarev.com/ghpvc/?username=saadkhalmadani&label=Profile%20Views&color=bf91f3&style=for-the-badge" alt="Profile Views" style="margin: 5px;" />
   <img src="https://img.shields.io/github/followers/saadkhalmadani?label=Followers&style=for-the-badge&color=70a5fd&labelColor=1a1b27" alt="GitHub Followers" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/GitHub-Pro-bf91f3?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="GitHub Pro" style="margin: 5px;" />
   
   <br /><br />
   
-  <!-- Quick Stats Pills -->
-  <div style="margin-top: 15px;">
+  <div>
     <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Total%20Stars&labelColor=1a1b27&color=ff6b6b&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/saadkhalmadani" alt="Total Stars" style="margin: 3px;" />
     <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Public%20Repos&labelColor=1a1b27&color=38bdae&style=for-the-badge&query=%24.public_repos&url=https://api.github.com/users/saadkhalmadani" alt="Public Repos" style="margin: 3px;" />
   </div>
 </div>
 
-<!-- Responsive breakpoint hint -->
 <div style="margin-top: 20px; font-size: 12px; color: #666; font-style: italic;">
-  📱 This dashboard is optimized for all screen sizes
+  📱 Optimized for all screen sizes
 </div>
 
 </div>
+
 ---
 
 ## Currently Exploring  
