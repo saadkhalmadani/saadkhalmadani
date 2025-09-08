@@ -204,8 +204,9 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
 <!-- GitHub Trophies -->
 <div style="margin: 30px 0;">
   <h3 style="color: #70a5fd;">🏆 GitHub Achievements</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=saadkhalmadani&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=4&row=2&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Saad's GitHub Trophies" style="width: 100%; max-width: 850px; height: auto;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saadkhalmadani&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=4&row=2&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Saad's GitHub Trophies" style="width: 100%; max-width: 650px; height: auto;" />
 </div>
+
 
 <!-- Advanced Stats -->
 <div style="margin: 30px 0;">
@@ -243,7 +244,6 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
 </div>
 
 <div style="margin-top: 20px; font-size: 12px; color: #666; font-style: italic;">
-  📱 Optimized for all screen sizes
 </div>
 
 </div>
