@@ -176,18 +176,21 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
 
 ## GitHub Analytics  
 
-<div align="left">
+<div align="center">
 
-  <!-- GitHub Stats -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+  <!-- GitHub Stats and Streak Side by Side -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+    <img width="48%" src="https://streak-stats.demolab.com?user=saadkhalmadani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </div>
 
-  <!-- GitHub Streak -->
-  <img width="48%" style="margin-left:100px; margin-BOTTOM:150px" src="https://streak-stats.demolab.com?user=saadkhalmadani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
 
-  <!-- Top Languages -->
+  <!-- Top Languages (Centered Below) -->
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadkhalmadani&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" alt="Top Languages" />
 
 </div>
+
 
 ---
 
