@@ -182,14 +182,10 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
 
   <!-- GitHub Streak -->
-  <img width="48%" style="margin-left:20px;" src="https://streak-stats.demolab.com?user=saadkhalmadani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-  <br/><br/>
+  <img width="48%" style="margin-left:70px;" src="https://streak-stats.demolab.com?user=saadkhalmadani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <!-- Top Languages -->
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadkhalmadani&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" alt="Top Languages" />
-
-  <br/><br/>
 
 </div>
 
