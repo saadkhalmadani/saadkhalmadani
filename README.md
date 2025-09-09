@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=700&color=FF6B6B&center=true&vCenter=true&width=800&height=70&lines=DataOps+Engineer+%7C+Fresh+Graduate;Python+%7C+SQL+%7C+Big+Data+Enthusiast;Building+Scalable+Data+Pipelines+%F0%9F%9A%80;Ready+to+Make+Impact!" alt="Typing Animation" />
   
 </br></br>
-  [![Profile Views](https://komarev.com/ghpvc/?username=saadkhalmadani&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/saadkhalmadani)
+  [![Profile Views](https://komarev.com/ghpvc/?username=saadkhalmadani3&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/saadkhalmadani)
   [![GitHub followers](https://img.shields.io/github/followers/saadkhalmadani?style=for-the-badge&color=orange&labelColor=black)](https://github.com/saadkhalmadani)
 </div>
 
