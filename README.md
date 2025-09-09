@@ -201,6 +201,11 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
 
 ---
 
+## Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=saadkhalmadani&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
 ## Currently Exploring  
 
 <div align="left">
@@ -218,11 +223,6 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
 <div align="left">
   <em>By day I automate <strong>data pipelines</strong>, by night I perfect the art of <strong>Moroccan mint tea</strong></em>
 </div>
-
----
-
-## Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=saadkhalmadani&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
