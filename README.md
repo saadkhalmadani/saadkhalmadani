@@ -203,8 +203,13 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
 
 ---
 
-## Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=saadkhalmadani&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Top Contributed Repo  
+
+<div align="center">
+
+  <img src="https://github-contributor-stats.vercel.app/api?username=saadkhalmadani&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+
+</div>
 
 ---
 
