@@ -221,16 +221,16 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
 
 ---
 
+## Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=saadkhalmadani&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
 <div align="left">  
   <h3>Let's Connect & Build Something Amazing!</h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-khalmadani)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadkhalmadani)
-
-  ---
-
-## Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=saadkhalmadani&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
   <br><br>
   <em>From Morocco 🇲🇦 with passion for data engineering</em>
