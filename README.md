@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Saad%20KHALMADANI&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38" />
     
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=700&color=FF6B6B&center=true&vCenter=true&width=800&height=70&lines=DataOps+Engineer+%7C+Fresh+Graduate;Python+%7C+SQL+%7C+Big+Data+Enthusiast;Building+Scalable+Data+Pipelines+%F0%9F%9A%80;Ready+to+Make+Impact!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=700&color=FF6B6B&center=true&vCenter=true&width=800&height=70&lines=DataOps+Engineer+Big+Data+Enthusiast;Building+Scalable+Data+Pipelines+%F0%9F%9A%80;Ready+to+Make+Impact!" alt="Typing Animation" />
   
 </br></br>
   [![Profile Views](https://komarev.com/ghpvc/?username=saadkhalmadani3&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/saadkhalmadani)
