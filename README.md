@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Saad%20KHALMADANI&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38" />
-    
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=800&color=2E86AB&center=true&vCenter=true&width=900&height=80&lines=DataOps+Engineer+%7C+ETL+Pipeline+Automation+Expert;Python+%E2%80%A2+SQL+%E2%80%A2+Docker+%7C+Apache+Kafka+%26+Spark;Data+Quality+%26+CI%2FCD+Pipeline+Specialist+%F0%9F%9A%80;Transforming+Data+Into+Business+Value+%F0%9F%92%A1;Ready+to+Scale+Your+Data+Infrastructure!" alt="DataOps Engineer Typing Animation" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=700&color=2E86AB&center=true&vCenter=true&width=800&height=70&lines=DataOps+Engineer+%7C+ETL+Pipeline+Automation;Python+%E2%80%A2+SQL+%E2%80%A2+Docker+Expert+%F0%9F%90%B3;Apache+Kafka+%26+Spark+Specialist+%E2%9A%A1;Data+Quality+%26+CI%2FCD+Master+%F0%9F%9A%80" alt="DataOps Engineer Typing Animation" />
   
 </br></br>
   [![Profile Views](https://komarev.com/ghpvc/?username=saadkhalmadani3&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/saadkhalmadani)
