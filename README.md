@@ -179,12 +179,12 @@ Tech Stack: Kafka • Debezium • Spark • PostgreSQL • Superset • Python
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
 
   <br/>
 
   <!-- GitHub Streak -->
-  <img width="70%" src="https://streak-stats.demolab.com?user=saadkhalmadani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=saadkhalmadani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <br/>
 
