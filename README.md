@@ -201,16 +201,6 @@ Monitoring: Real-time metrics • Data quality validation • Alert systems
 
 ---
 
-## Top Contributed Repo  
-
-<div align="center">
-
-  <img src="https://github-contributor-stats.vercel.app/api?username=saadkhalmadani&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-
-</div>
-
----
-
 ## Currently Exploring  
 
 <div align="left">
