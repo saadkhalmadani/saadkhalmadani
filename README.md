@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 **DataOps Engineer** from Morocco 🇲🇦 passionate about transforming raw data into actionable insights through **automated, scalable, and reliable data infrastructure**.
 
@@ -30,11 +30,11 @@ Current Mission:
 
 ---
 
-## 💡 What I Do
+## What I Do
 
 <div align="left">
 
-| 🏗️ **Data Architecture** | ⚡ **Real-Time Processing** | 🔄 **DevOps Integration** | 📊 **Analytics & Visualization** |
+| **Data Architecture** | **Real-Time Processing** | **DevOps Integration** | **Analytics & Visualization** |
 |:---:|:---:|:---:|:---:|
 | Design scalable data lakes & warehouses | Stream processing with Kafka & Spark | CI/CD for data pipelines | Interactive dashboards & reports |
 | ETL/ELT pipeline automation | Real-time analytics & monitoring | Infrastructure as Code | Self-service analytics platforms |
@@ -47,7 +47,7 @@ Current Mission:
 ## Tech Stack  
 
 <details>
-<summary>🔤 Programming Languages & Scripting</summary>
+<summary>Programming Languages</summary>
 <br>
 
 #### Core Languages
@@ -63,7 +63,7 @@ Current Mission:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-#### Scripting & Automation
+#### Scripting
 <p align="left">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
@@ -72,7 +72,7 @@ Current Mission:
 </details>
 
 <details>
-<summary>🗄️ Databases & Data Warehousing</summary>
+<summary>Databases & Data Warehousing</summary>
 <br>
 
 #### Relational Databases
@@ -97,7 +97,7 @@ Current Mission:
 </details>
 
 <details>
-<summary>📊 Big Data & Stream Processing</summary>
+<summary>Big Data & Stream Processing</summary>
 <br>
 
 #### Processing Frameworks
@@ -122,7 +122,7 @@ Current Mission:
 </details>
 
 <details>
-<summary>📈 Data Visualization & Analytics</summary>
+<summary>Data Visualization & Analytics</summary>
 <br>
 
 #### Business Intelligence
@@ -149,7 +149,7 @@ Current Mission:
 </details>
 
 <details>
-<summary>☁️ Cloud Platforms & Services</summary>
+<summary>Cloud Platforms & Services</summary>
 <br>
 
 #### Cloud Providers
@@ -168,7 +168,7 @@ Current Mission:
 </details>
 
 <details>
-<summary>🚀 DevOps & Infrastructure</summary>
+<summary>DevOps & Infrastructure</summary>
 <br>
 
 #### Containerization & Orchestration
@@ -203,7 +203,7 @@ Current Mission:
 </details>
 
 <details>
-<summary>🛠️ Development Tools & IDEs</summary>
+<summary>Development Tools & IDEs</summary>
 <br>
 
 #### Integrated Development Environments
@@ -230,7 +230,7 @@ Current Mission:
 </details>
 
 <details>
-<summary>🐧 Operating Systems & Administration</summary>
+<summary>Operating Systems & Administration</summary>
 <br>
 
 #### Operating Systems
@@ -251,7 +251,7 @@ Current Mission:
 </details>
 
 <details>
-<summary>📐 Data Modeling & Architecture</summary>
+<summary>Data Modeling & Architecture</summary>
 <br>
 
 #### Data Modeling Techniques
@@ -273,7 +273,7 @@ Current Mission:
 </details>
 
 <details>
-<summary>🔬 Data Science & Machine Learning</summary>
+<summary>Data Science & Machine Learning</summary>
 <br>
 
 #### Python Libraries
@@ -299,7 +299,7 @@ Current Mission:
 </details>
 
 <details>
-<summary>📋 Productivity & Collaboration</summary>
+<summary>Productivity & Collaboration</summary>
 <br>
 
 #### Office & Documentation
@@ -319,7 +319,7 @@ Current Mission:
 </details>
 
 <details>
-<summary>🔒 Security & Governance</summary>
+<summary>Security & Governance</summary>
 <br>
 
 #### Data Security
@@ -337,7 +337,7 @@ Current Mission:
 </details>
 
 <details>
-<summary>🎯 Specialized Tools & Frameworks</summary>
+<summary>Specialized Tools & Frameworks</summary>
 <br>
 
 #### Data Formats & Serialization
@@ -359,25 +359,25 @@ Current Mission:
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🎮 [DofusDataForge](https://github.com/saadkhalmadani/DofusDataForge-project)
+### [DofusDataForge](https://github.com/saadkhalmadani/DofusDataForge-project)
 > **Intelligent Data Scraping & Visualization Platform**
 
 <div align="left">
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://dofusdataforge-project.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadkhalmadani/DofusDataForge-project)
+[![Live Demo](https://img.shields.io/badge/%20Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://dofusdataforge-project.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadkhalmadani/DofusDataForge-project)
 
 **Demo Credentials:** `bob` / `bobpass`
 
-**🎯 What it does:**
+**What it does:**
 - Extracts and structures complex gaming data from web sources
 - Implements robust data validation and quality checks
 - Provides interactive analytics through modern dashboards
 - Supports multiple export formats with optimized performance
 
-**⚡ Technical Highlights:**
+**Technical Highlights:**
 ```
 Architecture: Web Scraping → Data Processing → Storage → Visualization
 Pipeline: Selenium + BeautifulSoup → Pandas → PostgreSQL → Streamlit
@@ -386,20 +386,20 @@ Performance: Real-time filtering • Advanced search • Export optimization
 
 </div>
 
-### 🌊 [Real-Time CDC Streaming](https://github.com/saadkhalmadani/realtime-cdc-streaming-project)
+### [Real-Time CDC Streaming](https://github.com/saadkhalmadani/realtime-cdc-streaming-project)
 > **Enterprise IoT Data Streaming Platform**
 
 <div align="left">
 
-[![GitHub](https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadkhalmadani/realtime-cdc-streaming-project)
+[![GitHub](https://img.shields.io/badge/%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadkhalmadani/realtime-cdc-streaming-project)
 
-**🎯 What it does:**
+**What it does:**
 - Ingests high-volume IoT sensor data in real-time
 - Implements Change Data Capture for database synchronization  
 - Processes streaming data with fault-tolerant architecture
 - Delivers actionable insights through interactive dashboards
 
-**⚡ Technical Architecture:**
+**Technical Architecture:**
 ```
 Data Flow: IoT Sensors → Kafka → Spark → PostgreSQL → Superset
 CDC Pipeline: Database Changes → Debezium → Kafka → Stream Processing
