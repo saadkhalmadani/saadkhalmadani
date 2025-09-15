@@ -172,79 +172,71 @@ Monitoring: Real-time metrics • Data quality validation • Alert systems
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics  
 
 <div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=saadkhalmadani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-</div>
+  <!-- GitHub Stats -->
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadkhalmadani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
+  <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadkhalmadani&theme=tokyo-night&hide_border=true&area=true&point=2E86AB" width="100%" alt="Contribution Graph" />
+  <!-- GitHub Streak -->
+  <img width="60%" src="https://streak-stats.demolab.com?user=saadkhalmadani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <br/>
+
+  <!-- Top Languages -->
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadkhalmadani&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" alt="Top Languages" />
+
 </div>
 
 ---
 
-## 🎯 Career Roadmap
+## Contribution Graph
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadkhalmadani&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
+
+---
+
+## Top Contributed Repo  
+
+<div align="center">
+
+  <img src="https://github-contributor-stats.vercel.app/api?username=saadkhalmadani&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+
+</div>
+
+---
+
+## Currently Exploring  
 
 <div align="left">
 
-| Timeline | Focus Area | Key Objectives |
-|:---:|:---|:---|
-| **Next 6 months** | **Cloud-Native DataOps** | Master Kubernetes orchestration, Terraform IaC, and cloud-native data platforms |
-| **1-2 Years** | **Data Architecture Leadership** | Lead enterprise data modernization projects and mentor engineering teams |
-| **Long-term Vision** | **Innovation & Impact** | Pioneer next-gen data solutions that democratize analytics and drive business transformation |
-
-</div>
-
----
-
-## 🌱 Currently Exploring
-
-<div align="center">
-
-| 🚀 **Cloud Technologies** | 🧠 **Advanced Analytics** | 🔮 **Emerging Tech** |
+| Focus Area | 🛠Technologies | Learning Path |
 |:---:|:---:|:---:|
-| Kubernetes • Terraform | Machine Learning Ops | Data Mesh Architecture |
-| AWS/Azure Data Services | Real-time ML Inference | Event-Driven Systems |
-| Serverless Computing | Feature Stores | Edge Computing |
-
+| **Cloud-Native** | Kubernetes • Terraform | Container orchestration |
+| **Data Mesh** | Kafka • Event Streaming | Distributed data architecture |  
 </div>
 
 ---
 
-## 💭 Philosophy
+## Fun Fact  
 
-> *"The best data pipeline is the one you never have to think about – it just works, scales automatically, and tells you when something needs attention."*
-
-<div align="center">
-  
-**🇲🇦 From Morocco with passion for data engineering**
-
-*Bridging the gap between raw data and business intelligence, one pipeline at a time*
-
+<div align="left">
+  <em>By day I automate <strong>data pipelines</strong>, by night I perfect the art of <strong>Moroccan mint tea</strong></em>
 </div>
 
 ---
 
-<div align="center">
+<div align="left">  
+  <h3>Let's Connect & Build Something Amazing!</h3>
   
-### 🤝 Let's Build the Future of Data Together!
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-khalmadani)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadkhalmadani)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-khalmadani)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadkhalmadani)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-**Open to collaborating on:** Data Engineering Projects • Open Source Contributions • Technical Mentoring
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" />
+  <br><br>
+  <em>From Morocco 🇲🇦 with passion for data engineering</em>
 </div>
