@@ -78,8 +78,6 @@ Current Mission:
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
 </p>
 
 #### NoSQL & Cache
@@ -114,7 +112,7 @@ Current Mission:
   <img src="https://img.shields.io/badge/Debezium-FF4B4B?style=for-the-badge&logoColor=white" alt="Debezium"/>
 </p>
 
-#### Data Integration & ETL
+#### Data Integration & Orchestration
 <p align="left">
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/>
 </p>
@@ -128,7 +126,6 @@ Current Mission:
 <p align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Apache_Superset-20A7C9?style=for-the-badge&logoColor=white" alt="Superset"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 </p>
 
 #### Python Visualization Libraries
@@ -137,11 +134,9 @@ Current Mission:
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white" alt="Seaborn"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
   <img src="https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=dash&logoColor=white" alt="Dash"/>
-  <img src="https://img.shields.io/badge/Bokeh-EE6C4D?style=for-the-badge&logoColor=white" alt="Bokeh"/>
-  <img src="https://img.shields.io/badge/Altair-00A9E0?style=for-the-badge&logoColor=white" alt="Altair"/>
 </p>
 
-#### OLAP & Analytics
+#### Other Analytics Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Apache_Kylin-0078D4?style=for-the-badge&logoColor=white" alt="Kylin"/>
 </p>
@@ -185,17 +180,14 @@ Current Mission:
 #### CI/CD & Version Control
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD"/>
+  <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
 </p>
 
 #### Monitoring & Logging
 <p align="left">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"/>
 </p>
 </details>
 
@@ -205,9 +197,7 @@ Current Mission:
 
 #### Data Modeling Techniques
 <p align="left">
-  <img src="https://img.shields.io/badge/Star_Schema-4285F4?style=for-the-badge&logoColor=white" alt="Star Schema"/>
   <img src="https://img.shields.io/badge/Snowflake_Schema-29B5E8?style=for-the-badge&logoColor=white" alt="Snowflake Schema"/>
-  <img src="https://img.shields.io/badge/Data_Vault-FF6B6B?style=for-the-badge&logoColor=white" alt="Data Vault"/>
   <img src="https://img.shields.io/badge/Dimensional_Modeling-00A0E4?style=for-the-badge&logoColor=white" alt="Dimensional Modeling"/>
 </p>
 
@@ -232,12 +222,6 @@ Current Mission:
 
 <details>
 <summary>Security & Governance</summary>
-<br>
-
-#### Data Security
-<p align="left">
-  <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="Vault"/>
-</p>
 
 #### Compliance & Quality
 <p align="left">
