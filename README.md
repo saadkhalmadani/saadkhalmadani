@@ -442,7 +442,7 @@ Monitoring: Real-time metrics • Data quality validation • Alert systems
 
 <div align="left">
 
-| Focus Area | 🛠Technologies | Learning Path |
+| Focus Area | Technologies | Learning Path |
 |:---:|:---:|:---:|
 | **Cloud-Native** | Kubernetes • Terraform | Container orchestration |
 | **Data Mesh** | Kafka • Event Streaming | Distributed data architecture |  
