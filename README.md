@@ -202,54 +202,6 @@ Current Mission:
 </details>
 
 <details>
-<summary>Development Tools & IDEs</summary>
-<br>
-
-#### Integrated Development Environments
-<p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans"/>
-</p>
-
-#### Data Science & Notebooks
-<p align="left">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="JupyterLab"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" alt="Colab"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
-</p>
-
-#### API Development & Testing
-<p align="left">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logoColor=white" alt="REST API"/>
-</p>
-</details>
-
-<details>
-<summary>Operating Systems & Administration</summary>
-<br>
-
-#### Operating Systems
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
-  <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" alt="CentOS"/>
-  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-</p>
-
-#### System Administration
-<p align="left">
-  <img src="https://img.shields.io/badge/Network_Admin-0078D4?style=for-the-badge&logoColor=white" alt="Network Admin"/>
-  <img src="https://img.shields.io/badge/System_Admin-FF6B6B?style=for-the-badge&logoColor=white" alt="System Admin"/>
-</p>
-</details>
-
-<details>
 <summary>Data Modeling & Architecture</summary>
 <br>
 
