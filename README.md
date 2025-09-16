@@ -224,32 +224,6 @@ Current Mission:
 </details>
 
 <details>
-<summary>Data Science & Machine Learning</summary>
-<br>
-
-#### Python Libraries
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-</p>
-
-#### Deep Learning Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-</p>
-
-#### ML Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubeflow&logoColor=white" alt="Kubeflow"/>
-  <img src="https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure ML"/>
-</p>
-</details>
-
-<details>
 <summary>Productivity & Collaboration</summary>
 <br>
 
