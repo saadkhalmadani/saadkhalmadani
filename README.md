@@ -221,7 +221,7 @@ Current Mission:
 </details>
 
 <details>
-<summary>Security & Governance</summary>
+<summary>Governance</summary>
 
 #### Compliance & Quality
 <p align="left">
