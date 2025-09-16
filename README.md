@@ -210,9 +210,7 @@ Current Mission:
   <img src="https://img.shields.io/badge/Star_Schema-4285F4?style=for-the-badge&logoColor=white" alt="Star Schema"/>
   <img src="https://img.shields.io/badge/Snowflake_Schema-29B5E8?style=for-the-badge&logoColor=white" alt="Snowflake Schema"/>
   <img src="https://img.shields.io/badge/Data_Vault-FF6B6B?style=for-the-badge&logoColor=white" alt="Data Vault"/>
-  <img src="https://img.shields.io/badge/Data_Vault_2.0-FF6B6B?style=for-the-badge&logoColor=white" alt="Data Vault 2.0"/>
   <img src="https://img.shields.io/badge/Dimensional_Modeling-00A0E4?style=for-the-badge&logoColor=white" alt="Dimensional Modeling"/>
-  <img src="https://img.shields.io/badge/3NF-4CAF50?style=for-the-badge&logoColor=white" alt="3NF"/>
 </p>
 
 #### Architecture Patterns
