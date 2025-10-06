@@ -84,40 +84,41 @@ Current Mission:
 <summary>Cloud & Big Data</summary>
 <br>
 
-<details>
-<summary>Cloud Providers</summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/> 
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/> 
-</p>
-</details>
 
-<details>
-<summary>Azure Data Services</summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/Azure_Data_Lake-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Data Lake"/>
-  <img src="https://img.shields.io/badge/Azure_SQL_Database-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure SQL Database"/>
-  <img src="https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Cosmos DB"/>
-  <img src="https://img.shields.io/badge/Azure_Databricks-F16726?style=for-the-badge&logo=databricks&logoColor=white" alt="Azure Databricks"/>
-  <img src="https://img.shields.io/badge/Azure_Synapse_Analytics-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Synapse Analytics"/>
-  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Data Factory"/>
-  <img src="https://img.shields.io/badge/Azure_Blob_Storage-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Blob Storage"/>
-  <img src="https://img.shields.io/badge/Azure_Functions-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Functions"/>
-  <img src="https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Key Vault"/>
-  <img src="https://img.shields.io/badge/Azure_Event_Hubs-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Event Hubs"/>
-  <img src="https://img.shields.io/badge/Azure_Logic_Apps-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Logic Apps"/>
-</p>
-</details>
+  <details>
+  <summary>Cloud Providers</summary>
+  <br>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/> 
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/> 
+  </p>
+  </details>
 
-<details>
-<summary>Big Data</summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" alt="Hadoop"/>
-</p>
-</details>
+  <details>
+  <summary>Azure Data Services</summary>
+  <br>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Azure_Data_Lake-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Data Lake"/>
+    <img src="https://img.shields.io/badge/Azure_SQL_Database-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure SQL Database"/>
+    <img src="https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Cosmos DB"/>
+    <img src="https://img.shields.io/badge/Azure_Databricks-F16726?style=for-the-badge&logo=databricks&logoColor=white" alt="Azure Databricks"/>
+    <img src="https://img.shields.io/badge/Azure_Synapse_Analytics-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Synapse Analytics"/>
+    <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Data Factory"/>
+    <img src="https://img.shields.io/badge/Azure_Blob_Storage-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Blob Storage"/>
+    <img src="https://img.shields.io/badge/Azure_Functions-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Functions"/>
+    <img src="https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Key Vault"/>
+    <img src="https://img.shields.io/badge/Azure_Event_Hubs-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Event Hubs"/>
+    <img src="https://img.shields.io/badge/Azure_Logic_Apps-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Logic Apps"/>
+  </p>
+  </details>
+
+  <details>
+  <summary>Big Data</summary>
+  <br>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" alt="Hadoop"/>
+  </p>
+  </details>
 
 </details>
 
