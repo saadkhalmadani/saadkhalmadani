@@ -47,190 +47,54 @@ Current Mission:
 
 ## Tech Stack  
 
-<details>
-<summary>🧠 Programming Languages</summary>
-<br>
+- **Programming & Scripting**:  
+  <img src="https://skillicons.dev/icons?i=python" width="25" alt="Python"/> Python,  
+  <img src="https://skillicons.dev/icons?i=bash" width="25" alt="Bash"/> Bash  
 
-#### Core Languages  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-</p>
+- **Data Processing & Orchestration**:  
+  <img src="https://skillicons.dev/icons?i=spark" width="25" alt="Spark"/> Apache Spark,  
+  <img src="https://skillicons.dev/icons?i=kafka" width="25" alt="Kafka"/> Kafka,  
+  <img src="https://skillicons.dev/icons?i=kylin" width="25" alt="Kylin"/> Kylin,  
+  <img src="https://skillicons.dev/icons?i=pandas" width="25" alt="Pandas"/> Pandas,  
+  <img src="https://skillicons.dev/icons?i=polars" width="25" alt="Polars"/> Polars,  
+  <img src="https://skillicons.dev/icons?i=pyspark" width="25" alt="PySpark"/> PySpark,  
+  <img src="https://skillicons.dev/icons?i=numpy" width="25" alt="NumPy"/> NumPy,  
+  <img src="https://skillicons.dev/icons?i=airflow" width="25" alt="Airflow"/> Airflow  
 
-#### Web Technologies  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-</p>
+- **Databases & Storage**:  
+  <img src="https://skillicons.dev/icons?i=postgresql" width="25" alt="PostgreSQL"/> PostgreSQL,  
+  <img src="https://skillicons.dev/icons?i=mysql" width="25" alt="MySQL"/> MySQL,  
+  <img src="https://skillicons.dev/icons?i=mongodb" width="25" alt="MongoDB"/> MongoDB,  
+  <img src="https://skillicons.dev/icons?i=redis" width="25" alt="Redis"/> Redis,  
+  <img src="https://skillicons.dev/icons?i=hive" width="25" alt="Hive"/> Apache Hive  
 
-#### Scripting  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/>
-  <img src="https://skillicons.dev/icons?i=powershell" width="45" height="45" alt="PowerShell"/>
-</p>
-</details>
+- **Modeling & Architecture**:  
+  <img src="https://skillicons.dev/icons?i=snowflake" width="25" alt="Snowflake Schema"/> Snowflake Schema,  
+  <img src="https://skillicons.dev/icons?i=dimensional" width="25" alt="Dimensional Modeling"/> Dimensional Modeling,  
+  ETL/ELT, Data Mesh  
 
-<details>
-<summary>🗄️ Databases & Data Warehousing</summary>
-<br>
+- **Cloud & Big Data**:  
+  <img src="https://skillicons.dev/icons?i=azure" width="25" alt="Azure"/> Azure (ADF, Databricks, Synapse, Data Lake, Event Hubs),  
+  learning GCP,  
+  <img src="https://skillicons.dev/icons?i=hadoop" width="25" alt="Hadoop"/> Hadoop  
 
-#### Relational Databases  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-</p>
+- **Visualization & Analytics**:  
+  <img src="https://skillicons.dev/icons?i=powerbi" width="25" alt="Power BI"/> Power BI,  
+  <img src="https://skillicons.dev/icons?i=superset" width="25" alt="Superset"/> Superset,  
+  <img src="https://skillicons.dev/icons?i=matplotlib" width="25" alt="Matplotlib"/> Matplotlib,  
+  <img src="https://skillicons.dev/icons?i=seaborn" width="25" alt="Seaborn"/> Seaborn,  
+  <img src="https://skillicons.dev/icons?i=plotly" width="25" alt="Plotly"/> Plotly,  
+  <img src="https://skillicons.dev/icons?i=dash" width="25" alt="Dash"/> Dash,  
+  <img src="https://skillicons.dev/icons?i=streamlit" width="25" alt="Streamlit"/> Streamlit  
 
-#### NoSQL & Cache  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45" alt="Redis"/>
-</p>
+- **DevOps & Infrastructure**:  
+  <img src="https://skillicons.dev/icons?i=docker" width="25" alt="Docker"/> Docker; familiar with  
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="25" alt="Kubernetes"/> Kubernetes,  
+  <img src="https://skillicons.dev/icons?i=git" width="25" alt="Git"/> Git,  
+  <img src="https://skillicons.dev/icons?i=githubactions" width="25" alt="GitHub Actions"/> GitHub Actions,  
+  <img src="https://skillicons.dev/icons?i=gitlab" width="25" alt="GitLab"/> GitLab CI/CD,  
+  <img src="https://skillicons.dev/icons?i=terraform" width="25" alt="Terraform"/> Terraform
 
-#### Data Warehouse & Lake  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=snowflake" width="45" height="45" alt="Snowflake"/>
-  <img src="https://cdn.simpleicons.org/apachehive/FDEE21" width="45" height="45" alt="Hive"/>
-</p>
-</details>
-
-<details>
-<summary>⚡ Big Data & Stream Processing</summary>
-<br>
-
-#### Processing Frameworks  
-<p align="left">
-  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="45" height="45" alt="Spark"/>
-  <img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" width="45" height="45" alt="Hadoop"/>
-</p>
-
-#### Streaming & Messaging  
-<p align="left">
-  <img src="https://cdn.simpleicons.org/apachekafka/231F20" width="45" height="45" alt="Kafka"/>
-  <img src="https://cdn.simpleicons.org/debezium/FF4B4B" width="45" height="45" alt="Debezium"/>
-</p>
-
-#### Data Integration & Orchestration  
-<p align="left">
-  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="45" height="45" alt="Airflow"/>
-</p>
-</details>
-
-<details>
-<summary>📊 Data Visualization & Analytics</summary>
-<br>
-
-#### Business Intelligence  
-<p align="left">
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45" height="45" alt="Power BI"/>
-  <img src="https://cdn.simpleicons.org/apache/20A7C9" width="45" height="45" alt="Superset"/>
-</p>
-
-#### Python Visualization  
-<p align="left">
-  <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="45" height="45" alt="Plotly"/>
-  <img src="https://cdn.simpleicons.org/dash/008DE4" width="45" height="45" alt="Dash"/>
-</p>
-</details>
-
-<details>
-<summary>☁️ Cloud Platforms & Services</summary>
-<br>
-
-#### Cloud Providers  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45" alt="Azure"/>
-</p>
-
-#### Azure Services  
-<p align="left">
-  <img src="https://cdn.simpleicons.org/azuredatafactory/0078D4" width="45" height="45" alt="ADF"/>
-  <img src="https://cdn.simpleicons.org/databricks/FF3621" width="45" height="45" alt="Databricks"/>
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="45" height="45" alt="Synapse"/>
-</p>
-</details>
-
-<details>
-<summary>⚙️ DevOps & Infrastructure</summary>
-<br>
-
-#### Containerization & Orchestration  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="Kubernetes"/>
-</p>
-
-#### Infrastructure as Code  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" height="45" alt="Terraform"/>
-</p>
-
-#### CI/CD & Version Control  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="45" height="45" alt="GitHub Actions"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45" height="45" alt="GitLab"/>
-</p>
-
-#### Monitoring & Logging  
-<p align="left">
-  <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="45" height="45" alt="Prometheus"/>
-  <img src="https://cdn.simpleicons.org/grafana/F46800" width="45" height="45" alt="Grafana"/>
-</p>
-</details>
-
-<details>
-<summary>🧩 Data Modeling & Architecture</summary>
-<br>
-
-#### Techniques & Patterns  
-<p align="left">
-  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="45" height="45" alt="Snowflake Schema"/>
-  <img src="https://cdn.simpleicons.org/azure/FFD700" width="45" height="45" alt="Medallion Architecture"/>
-  <img src="https://cdn.simpleicons.org/microsoftazure/00A0E4" width="45" height="45" alt="Lakehouse"/>
-</p>
-</details>
-
-<details>
-<summary>📅 Productivity & Collaboration</summary>
-<br>
-
-#### Project Management  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45" height="45" alt="Jira"/>
-  <img src="https://cdn.simpleicons.org/microsoftteams/6264A7" width="45" height="45" alt="Teams"/>
-</p>
-</details>
-
-<details>
-<summary>🧭 Governance & Quality</summary>
-<br>
-
-#### Compliance & Quality  
-<p align="left">
-  <img src="https://cdn.simpleicons.org/dbt/FF6B6B" width="45" height="45" alt="dbt"/>
-  <img src="https://cdn.simpleicons.org/datadog/4CAF50" width="45" height="45" alt="Data Quality"/>
-</p>
-</details>
-
-<details>
-<summary>🧬 Specialized Tools & Frameworks</summary>
-<br>
-
-#### Data Formats & Serialization  
-<p align="left">
-  <img src="https://cdn.simpleicons.org/apacheparquet/50ABF1" width="45" height="45" alt="Parquet"/>
-  <img src="https://cdn.simpleicons.org/apacheavro/FF6B6B" width="45" height="45" alt="Avro"/>
-  <img src="https://cdn.simpleicons.org/json/000000" width="45" height="45" alt="JSON"/>
-</p>
-
-#### Data Processing Libraries  
-<p align="left">
-  <img src="https://cdn.simpleicons.org/apachearrow/0078D4" width="45" height="45" alt="Arrow"/>
-  <img src="https://cdn.simpleicons.org/polars/CD792C" width="45" height="45" alt="Polars"/>
-  <img src="https://cdn.simpleicons.org/dask/FDA061" width="45" height="45" alt="Dask"/>
-</p>
-</details>
 ---
 
 ## Featured Projects
