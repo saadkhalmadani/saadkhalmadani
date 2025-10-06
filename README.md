@@ -47,53 +47,75 @@ Current Mission:
 
 ## Tech Stack  
 
-- **Programming & Scripting**:  
-  <img src="https://skillicons.dev/icons?i=python" width="25" alt="Python"/> Python,  
-  <img src="https://skillicons.dev/icons?i=bash" width="25" alt="Bash"/> Bash  
+<details>
+<summary>Programming & Scripting</summary>
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+</details>
 
-- **Data Processing & Orchestration**:  
-  <img src="https://skillicons.dev/icons?i=spark" width="25" alt="Spark"/> Apache Spark,  
-  <img src="https://skillicons.dev/icons?i=kafka" width="25" alt="Kafka"/> Kafka,  
-  <img src="https://skillicons.dev/icons?i=kylin" width="25" alt="Kylin"/> Kylin,  
-  <img src="https://skillicons.dev/icons?i=pandas" width="25" alt="Pandas"/> Pandas,  
-  <img src="https://skillicons.dev/icons?i=polars" width="25" alt="Polars"/> Polars,  
-  <img src="https://skillicons.dev/icons?i=pyspark" width="25" alt="PySpark"/> PySpark,  
-  <img src="https://skillicons.dev/icons?i=numpy" width="25" alt="NumPy"/> NumPy,  
-  <img src="https://skillicons.dev/icons?i=airflow" width="25" alt="Airflow"/> Airflow  
+<details>
+<summary>Data Processing & Orchestration</summary>
+<br>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
+<img src="https://img.shields.io/badge/Kylin-0078D4?style=for-the-badge&logoColor=white" alt="Kylin"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logoColor=white" alt="Polars"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/>
+</details>
 
-- **Databases & Storage**:  
-  <img src="https://skillicons.dev/icons?i=postgresql" width="25" alt="PostgreSQL"/> PostgreSQL,  
-  <img src="https://skillicons.dev/icons?i=mysql" width="25" alt="MySQL"/> MySQL,  
-  <img src="https://skillicons.dev/icons?i=mongodb" width="25" alt="MongoDB"/> MongoDB,  
-  <img src="https://skillicons.dev/icons?i=redis" width="25" alt="Redis"/> Redis,  
-  <img src="https://skillicons.dev/icons?i=hive" width="25" alt="Hive"/> Apache Hive  
+<details>
+<summary>Databases & Storage</summary>
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logoColor=black" alt="Hive"/>
+</details>
 
-- **Modeling & Architecture**:  
-  <img src="https://skillicons.dev/icons?i=snowflake" width="25" alt="Snowflake Schema"/> Snowflake Schema,  
-  <img src="https://skillicons.dev/icons?i=dimensional" width="25" alt="Dimensional Modeling"/> Dimensional Modeling,  
-  ETL/ELT, Data Mesh  
+<details>
+<summary>Modeling & Architecture</summary>
+<br>
+<img src="https://img.shields.io/badge/Snowflake_Schema-29B5E8?style=for-the-badge&logoColor=white" alt="Snowflake Schema"/>
+<img src="https://img.shields.io/badge/Dimensional_Modeling-00A0E4?style=for-the-badge&logoColor=white" alt="Dimensional Modeling"/>
+<img src="https://img.shields.io/badge/ETL_ELT-FF6B6B?style=for-the-badge&logoColor=white" alt="ETL/ELT"/>
+<img src="https://img.shields.io/badge/Data_Mesh-FF6B6B?style=for-the-badge&logoColor=white" alt="Data Mesh"/>
+</details>
 
-- **Cloud & Big Data**:  
-  <img src="https://skillicons.dev/icons?i=azure" width="25" alt="Azure"/> Azure (ADF, Databricks, Synapse, Data Lake, Event Hubs),  
-  learning GCP,  
-  <img src="https://skillicons.dev/icons?i=hadoop" width="25" alt="Hadoop"/> Hadoop  
+<details>
+<summary>Cloud & Big Data</summary>
+<br>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/> (ADF, Databricks, Synapse, Data Lake, Event Hubs)  
+<img src="https://img.shields.io/badge/GCP-F9AB00?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/> (learning)  
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" alt="Hadoop"/>
+</details>
 
-- **Visualization & Analytics**:  
-  <img src="https://skillicons.dev/icons?i=powerbi" width="25" alt="Power BI"/> Power BI,  
-  <img src="https://skillicons.dev/icons?i=superset" width="25" alt="Superset"/> Superset,  
-  <img src="https://skillicons.dev/icons?i=matplotlib" width="25" alt="Matplotlib"/> Matplotlib,  
-  <img src="https://skillicons.dev/icons?i=seaborn" width="25" alt="Seaborn"/> Seaborn,  
-  <img src="https://skillicons.dev/icons?i=plotly" width="25" alt="Plotly"/> Plotly,  
-  <img src="https://skillicons.dev/icons?i=dash" width="25" alt="Dash"/> Dash,  
-  <img src="https://skillicons.dev/icons?i=streamlit" width="25" alt="Streamlit"/> Streamlit  
+<details>
+<summary>Visualization & Analytics</summary>
+<br>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Apache_Superset-20A7C9?style=for-the-badge&logoColor=white" alt="Superset"/>
+<img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+<img src="https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=dash&logoColor=white" alt="Dash"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+</details>
 
-- **DevOps & Infrastructure**:  
-  <img src="https://skillicons.dev/icons?i=docker" width="25" alt="Docker"/> Docker; familiar with  
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="25" alt="Kubernetes"/> Kubernetes,  
-  <img src="https://skillicons.dev/icons?i=git" width="25" alt="Git"/> Git,  
-  <img src="https://skillicons.dev/icons?i=githubactions" width="25" alt="GitHub Actions"/> GitHub Actions,  
-  <img src="https://skillicons.dev/icons?i=gitlab" width="25" alt="GitLab"/> GitLab CI/CD,  
-  <img src="https://skillicons.dev/icons?i=terraform" width="25" alt="Terraform"/> Terraform
+<details>
+<summary>DevOps & Infrastructure</summary>
+<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> (familiar with Kubernetes)  
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>  
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>  
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>  
+<img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD"/>  
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+</details>llicons.dev/icons?i=terraform" width="25" alt="Terraform"/> Terraform
 
 ---
 
