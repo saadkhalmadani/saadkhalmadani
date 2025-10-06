@@ -3,7 +3,7 @@
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2E86AB&center=true&vCenter=true&width=900&height=80&lines=data+Engineer+%7C+Real-Time+Analytics+Expert;Building+Scalable+Data+Pipelines+%F0%9F%9A%80;Python+%E2%80%A2+Kafka+%E2%80%A2+Spark+%E2%80%A2+Docker+Master;Turning+Raw+Data+Into+Business+Intelligence+%E2%9A%A1" alt="data Engineer Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2E86AB&center=true&vCenter=true&width=900&height=80&lines=data+Engineer+%7C+Real-Time+Analytics+Expert;Building+Scalable+Data+Pipelines+%F0%9F%9A%80;Python+%E2%80%A2+Kafka+%E2%80%A2+Spark+%E2%80%A2+Docker+Master;Turning+Raw+Data+Into+Business+Intelligence+%E2%9A%A1" alt="Data Engineer Typing Animation" />
 
 <br>
 
@@ -15,7 +15,7 @@
 
 ## My name is Saad! 
 
-**data Engineer** from Morocco 🇲🇦 passionate about transforming raw data into actionable insights through **automated, scalable, and reliable data infrastructure**.
+**Data Engineer** from Morocco 🇲🇦 passionate about transforming raw data into actionable insights through **automated, scalable, and reliable data infrastructure**.
 
 I architect end-to-end data solutions that bridge the gap between **data engineering** and **DevOps**, ensuring data flows seamlessly from source to insight with enterprise-grade reliability.
 
