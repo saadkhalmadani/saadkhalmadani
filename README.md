@@ -46,25 +46,46 @@ Current Mission:
 ---
 
 ## Tech Stack  
-
 <details>
 <summary>Programming & Scripting</summary>
+<br>
+
+<details>
+<summary>Languages</summary>
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
 </details>
 
+</details>
+
 <details>
 <summary>Data Processing & Orchestration</summary>
 <br>
+
+<details>
+<summary>Processing Frameworks</summary>
+<br>
 <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark"/>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark"/>
 <img src="https://img.shields.io/badge/Kylin-0078D4?style=for-the-badge&logoColor=white" alt="Kylin"/>
+</details>
+
+<details>
+<summary>Libraries</summary>
+<br>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logoColor=white" alt="Polars"/>
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</details>
+
+<details>
+<summary>Orchestration</summary>
+<br>
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
+</details>
+
 </details>
 
 <details>
@@ -115,8 +136,7 @@ Current Mission:
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>  
 <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD"/>  
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-</details>llicons.dev/icons?i=terraform" width="25" alt="Terraform"/> Terraform
-
+</details>
 ---
 
 ## Featured Projects
