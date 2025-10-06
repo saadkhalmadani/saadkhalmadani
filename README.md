@@ -48,211 +48,189 @@ Current Mission:
 ## Tech Stack  
 
 <details>
-<summary>Programming Languages</summary>
+<summary>🧠 Programming Languages</summary>
 <br>
 
-#### Core Languages
+#### Core Languages  
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
 </p>
 
-#### Web Technologies
+#### Web Technologies  
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
 </p>
 
-#### Scripting
+#### Scripting  
 <p align="left">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/>
+  <img src="https://skillicons.dev/icons?i=powershell" width="45" height="45" alt="PowerShell"/>
 </p>
 </details>
 
 <details>
-<summary>Databases & Data Warehousing</summary>
+<summary>🗄️ Databases & Data Warehousing</summary>
 <br>
 
-#### Relational Databases
+#### Relational Databases  
 <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
 </p>
 
-#### NoSQL & Cache
+#### NoSQL & Cache  
 <p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45" alt="Redis"/>
 </p>
 
-#### Data Warehouse & Lake
+#### Data Warehouse & Lake  
 <p align="left">
-  <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="Hive"/>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
+  <img src="https://skillicons.dev/icons?i=snowflake" width="45" height="45" alt="Snowflake"/>
+  <img src="https://cdn.simpleicons.org/apachehive/FDEE21" width="45" height="45" alt="Hive"/>
 </p>
 </details>
 
 <details>
-<summary>Big Data & Stream Processing</summary>
+<summary>⚡ Big Data & Stream Processing</summary>
 <br>
 
-#### Processing Frameworks
+#### Processing Frameworks  
 <p align="left">
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark"/>
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" alt="Hadoop"/>
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="45" height="45" alt="Spark"/>
+  <img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" width="45" height="45" alt="Hadoop"/>
 </p>
 
-#### Streaming & Messaging
+#### Streaming & Messaging  
 <p align="left">
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
-  <img src="https://img.shields.io/badge/Kafka_Connect-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka Connect"/>
-  <img src="https://img.shields.io/badge/Kafka_Streams-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka Streams"/>
-  <img src="https://img.shields.io/badge/Debezium-FF4B4B?style=for-the-badge&logoColor=white" alt="Debezium"/>
+  <img src="https://cdn.simpleicons.org/apachekafka/231F20" width="45" height="45" alt="Kafka"/>
+  <img src="https://cdn.simpleicons.org/debezium/FF4B4B" width="45" height="45" alt="Debezium"/>
 </p>
 
-#### Data Integration & Orchestration
+#### Data Integration & Orchestration  
 <p align="left">
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/>
+  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="45" height="45" alt="Airflow"/>
 </p>
 </details>
 
 <details>
-<summary>Data Visualization & Analytics</summary>
+<summary>📊 Data Visualization & Analytics</summary>
 <br>
 
-#### Business Intelligence
+#### Business Intelligence  
 <p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Apache_Superset-20A7C9?style=for-the-badge&logoColor=white" alt="Superset"/>
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45" height="45" alt="Power BI"/>
+  <img src="https://cdn.simpleicons.org/apache/20A7C9" width="45" height="45" alt="Superset"/>
 </p>
 
-#### Python Visualization Libraries
+#### Python Visualization  
 <p align="left">
-  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=dash&logoColor=white" alt="Dash"/>
-</p>
-
-#### Other Analytics Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Apache_Kylin-0078D4?style=for-the-badge&logoColor=white" alt="Kylin"/>
+  <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="45" height="45" alt="Plotly"/>
+  <img src="https://cdn.simpleicons.org/dash/008DE4" width="45" height="45" alt="Dash"/>
 </p>
 </details>
 
 <details>
-<summary>Cloud Platforms & Services</summary>
+<summary>☁️ Cloud Platforms & Services</summary>
 <br>
 
-#### Cloud Providers
+#### Cloud Providers  
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45" alt="Azure"/>
 </p>
 
-#### Azure Services
+#### Azure Services  
 <p align="left">
-  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="ADF"/>
-  <img src="https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
-  <img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Synapse"/>
-  <img src="https://img.shields.io/badge/Azure_Data_Lake-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Data Lake"/>
-  <img src="https://img.shields.io/badge/Azure_Event_Hubs-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Event Hubs"/>
+  <img src="https://cdn.simpleicons.org/azuredatafactory/0078D4" width="45" height="45" alt="ADF"/>
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" width="45" height="45" alt="Databricks"/>
+  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="45" height="45" alt="Synapse"/>
 </p>
 </details>
 
 <details>
-<summary>DevOps & Infrastructure</summary>
+<summary>⚙️ DevOps & Infrastructure</summary>
 <br>
 
-#### Containerization & Orchestration
+#### Containerization & Orchestration  
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="Kubernetes"/>
 </p>
 
-#### Infrastructure as Code
+#### Infrastructure as Code  
 <p align="left">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" height="45" alt="Terraform"/>
 </p>
 
-#### CI/CD & Version Control
+#### CI/CD & Version Control  
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="45" height="45" alt="GitHub Actions"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45" height="45" alt="GitLab"/>
 </p>
 
-#### Monitoring & Logging
+#### Monitoring & Logging  
 <p align="left">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="45" height="45" alt="Prometheus"/>
+  <img src="https://cdn.simpleicons.org/grafana/F46800" width="45" height="45" alt="Grafana"/>
 </p>
 </details>
 
 <details>
-<summary>Data Modeling & Architecture</summary>
+<summary>🧩 Data Modeling & Architecture</summary>
 <br>
 
-#### Data Modeling Techniques
+#### Techniques & Patterns  
 <p align="left">
-  <img src="https://img.shields.io/badge/Snowflake_Schema-29B5E8?style=for-the-badge&logoColor=white" alt="Snowflake Schema"/>
-  <img src="https://img.shields.io/badge/Dimensional_Modeling-00A0E4?style=for-the-badge&logoColor=white" alt="Dimensional Modeling"/>
-</p>
-
-#### Architecture Patterns
-<p align="left">
-  <img src="https://img.shields.io/badge/Medallion_Architecture-FFD700?style=for-the-badge&logoColor=black" alt="Medallion"/>
-  <img src="https://img.shields.io/badge/Data_Mesh-FF6B6B?style=for-the-badge&logoColor=white" alt="Data Mesh"/>
-  <img src="https://img.shields.io/badge/Data_Lakehouse-00A0E4?style=for-the-badge&logoColor=white" alt="Data Lakehouse"/>
+  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="45" height="45" alt="Snowflake Schema"/>
+  <img src="https://cdn.simpleicons.org/azure/FFD700" width="45" height="45" alt="Medallion Architecture"/>
+  <img src="https://cdn.simpleicons.org/microsoftazure/00A0E4" width="45" height="45" alt="Lakehouse"/>
 </p>
 </details>
 
 <details>
-<summary>Productivity & Collaboration</summary>
+<summary>📅 Productivity & Collaboration</summary>
 <br>
 
-#### Project Management
+#### Project Management  
 <p align="left">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Teams"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45" height="45" alt="Jira"/>
+  <img src="https://cdn.simpleicons.org/microsoftteams/6264A7" width="45" height="45" alt="Teams"/>
 </p>
 </details>
 
 <details>
-<summary>Governance</summary>
+<summary>🧭 Governance & Quality</summary>
+<br>
 
-#### Compliance & Quality
+#### Compliance & Quality  
 <p align="left">
-  <img src="https://img.shields.io/badge/Data_Quality-4CAF50?style=for-the-badge&logoColor=white" alt="Data Quality"/>
-  <img src="https://img.shields.io/badge/dbt-FF6B6B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
+  <img src="https://cdn.simpleicons.org/dbt/FF6B6B" width="45" height="45" alt="dbt"/>
+  <img src="https://cdn.simpleicons.org/datadog/4CAF50" width="45" height="45" alt="Data Quality"/>
 </p>
 </details>
 
 <details>
-<summary>Specialized Tools & Frameworks</summary>
+<summary>🧬 Specialized Tools & Frameworks</summary>
 <br>
 
-#### Data Formats & Serialization
+#### Data Formats & Serialization  
 <p align="left">
-  <img src="https://img.shields.io/badge/Apache_Parquet-50ABF1?style=for-the-badge&logoColor=white" alt="Parquet"/>
-  <img src="https://img.shields.io/badge/Apache_Avro-FF6B6B?style=for-the-badge&logoColor=white" alt="Avro"/>
-  <img src="https://img.shields.io/badge/Apache_ORC-000000?style=for-the-badge&logoColor=white" alt="ORC"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
-  <img src="https://img.shields.io/badge/XML-FF6B6B?style=for-the-badge&logoColor=white" alt="XML"/>
+  <img src="https://cdn.simpleicons.org/apacheparquet/50ABF1" width="45" height="45" alt="Parquet"/>
+  <img src="https://cdn.simpleicons.org/apacheavro/FF6B6B" width="45" height="45" alt="Avro"/>
+  <img src="https://cdn.simpleicons.org/json/000000" width="45" height="45" alt="JSON"/>
 </p>
 
-#### Data Processing Libraries
+#### Data Processing Libraries  
 <p align="left">
-  <img src="https://img.shields.io/badge/Apache_Arrow-0078D4?style=for-the-badge&logoColor=white" alt="Arrow"/>
-  <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logoColor=white" alt="Polars"/>
-  <img src="https://img.shields.io/badge/Dask-FDA061?style=for-the-badge&logo=dask&logoColor=white" alt="Dask"/>
+  <img src="https://cdn.simpleicons.org/apachearrow/0078D4" width="45" height="45" alt="Arrow"/>
+  <img src="https://cdn.simpleicons.org/polars/CD792C" width="45" height="45" alt="Polars"/>
+  <img src="https://cdn.simpleicons.org/dask/FDA061" width="45" height="45" alt="Dask"/>
 </p>
 </details>
-
 ---
 
 ## Featured Projects
