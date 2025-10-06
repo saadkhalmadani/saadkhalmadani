@@ -84,9 +84,8 @@ Current Mission:
 <summary>Cloud & Big Data</summary>
 <br>
 
-
-  <details>
-  <summary>Cloud Providers</summary>
+ <details>
+  <summary>&nbsp;&nbsp;&nbsp;&nbsp;Cloud Providers</summary>
   <br>
   <p align="left">
     <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/> 
