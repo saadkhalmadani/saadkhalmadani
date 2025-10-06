@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Saad%20KHALMADANI&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2E86AB&center=true&vCenter=true&width=900&height=80&lines=DataOps+Engineer+%7C+Real-Time+Analytics+Expert;Building+Scalable+Data+Pipelines+%F0%9F%9A%80;Python+%E2%80%A2+Kafka+%E2%80%A2+Spark+%E2%80%A2+Docker+Master;Turning+Raw+Data+Into+Business+Intelligence+%E2%9A%A1" alt="DataOps Engineer Typing Animation" />
 
   ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2E86AB&center=true&vCenter=true&width=900&height=80&lines=DataOps+Engineer+%7C+Real-Time+Analytics+Expert;Building+Scalable+Data+Pipelines+%F0%9F%9A%80;Python+%E2%80%A2+Kafka+%E2%80%A2+Spark+%E2%80%A2+Docker+Master;Turning+Raw+Data+Into+Business+Intelligence+%E2%9A%A1" alt="DataOps Engineer Typing Animation" />
 
   <br>
   
