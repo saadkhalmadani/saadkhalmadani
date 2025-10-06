@@ -5,6 +5,7 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2E86AB&center=true&vCenter=true&width=900&height=80&lines=DataOps+Engineer+%7C+Real-Time+Analytics+Expert;Building+Scalable+Data+Pipelines+%F0%9F%9A%80;Python+%E2%80%A2+Kafka+%E2%80%A2+Spark+%E2%80%A2+Docker+Master;Turning+Raw+Data+Into+Business+Intelligence+%E2%9A%A1" alt="DataOps Engineer Typing Animation" />
 
+
   <br>
   
   [![Profile Views](https://komarev.com/ghpvc/?username=saadkhalmadani6&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/saadkhalmadani)
@@ -13,7 +14,7 @@
 
 ---
 
-## About Me
+## My name is Saad! 👾
 
 **DataOps Engineer** from Morocco 🇲🇦 passionate about transforming raw data into actionable insights through **automated, scalable, and reliable data infrastructure**.
 
