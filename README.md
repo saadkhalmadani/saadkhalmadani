@@ -311,21 +311,17 @@ Monitoring: Real-time metrics • Data quality validation • Alert systems
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"
-       alt="GitHub Stats"
-       width="48%" />
+  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+
+  <br/>
 
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=saadkhalmadani&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
-       alt="GitHub Streak"
-       width="48%" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=saadkhalmadani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-  <br/><br/>
+  <br/>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadkhalmadani&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400"
-       alt="Top Languages"
-       width="50%" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadkhalmadani&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" alt="Top Languages" />
 
 </div>
 
