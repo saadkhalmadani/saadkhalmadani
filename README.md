@@ -7,7 +7,7 @@
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=saadkhalmadani6&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/saadkhalmadani)
+[![Profile Views](https://komarev.com/ghpvc/?username=saadkhalmadani4&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/saadkhalmadani)
 ![GitHub followers](https://img.shields.io/github/followers/saadkhalmadani?style=for-the-badge&color=orange&labelColor=black)
 
 </div>
