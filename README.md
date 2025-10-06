@@ -347,14 +347,6 @@ Monitoring: Real-time metrics • Data quality validation • Alert systems
 
 ---
 
-## Fun Fact  
-
-<div align="left">
-  <em>By day I automate <strong>data pipelines</strong>, by night I perfect the art of <strong>Moroccan mint tea</strong></em>
-</div>
-
----
-
 <div align="left">  
   <h3>Let's Connect & Build Something Amazing!</h3>
   
