@@ -327,14 +327,6 @@ Monitoring: Real-time metrics • Data quality validation • Alert systems
 
 ---
 
-## Contribution Graph
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadkhalmadani&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</div>
-
----
-
 ## Currently Exploring  
 
 <div align="left">
