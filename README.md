@@ -54,6 +54,7 @@ Current Mission:
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark"/> 
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> 
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/>
+  <img src="https://img.shields.io/badge/Databricks-F16726?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
 </p>
 </details>
 
@@ -76,7 +77,6 @@ Current Mission:
   <img src="https://img.shields.io/badge/Snowflake_Schema-29B5E8?style=for-the-badge&logoColor=white" alt="Snowflake Schema"/> 
   <img src="https://img.shields.io/badge/Dimensional_Modeling-00A0E4?style=for-the-badge&logoColor=white" alt="Dimensional Modeling"/> 
   <img src="https://img.shields.io/badge/ETL_ELT-FF6B6B?style=for-the-badge&logoColor=white" alt="ETL/ELT"/> 
-  <img src="https://img.shields.io/badge/Data_Mesh-FF6B6B?style=for-the-badge&logoColor=white" alt="Data Mesh"/>
 </p>
 </details>
 
@@ -88,8 +88,8 @@ Current Mission:
   <summary>Cloud Providers</summary>
   <br>
   <p align="left">
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/> 
     <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/> 
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/> 
   </p>
   </details>
 
