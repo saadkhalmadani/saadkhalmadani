@@ -352,6 +352,4 @@ Monitoring: Real-time metrics • Data quality validation • Alert systems
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-khalmadani)
 
-  <br><br>
-  <em>From Morocco 🇲🇦 with passion for data engineering</em>
 </div>
