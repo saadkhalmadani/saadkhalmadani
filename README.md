@@ -97,11 +97,14 @@ Current Mission:
 <details>
 <summary>Cloud & Big Data</summary>
 <br>
+
 <p align="left">
 <!-- Cloud Providers -->
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/> 
 <img src="https://img.shields.io/badge/GCP-F9AB00?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/> 
+</p>
 
+<p align="left">
 <!-- Azure Data Services -->
 <img src="https://img.shields.io/badge/Azure_Data_Lake-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Data Lake"/>
 <img src="https://img.shields.io/badge/Azure_SQL_Database-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure SQL Database"/>
@@ -114,11 +117,15 @@ Current Mission:
 <img src="https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Key Vault"/>
 <img src="https://img.shields.io/badge/Azure_Event_Hubs-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Event Hubs"/>
 <img src="https://img.shields.io/badge/Azure_Logic_Apps-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Logic Apps"/>
+</p>
 
+<p align="left">
 <!-- Big Data -->
 <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" alt="Hadoop"/>
 </p>
+
 </details>
+
 
 <details>
 <summary>Visualization & Analytics</summary>
