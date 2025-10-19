@@ -128,9 +128,7 @@ Current Mission:
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/> 
   <img src="https://img.shields.io/badge/Apache_Superset-20A7C9?style=for-the-badge&logoColor=white" alt="Superset"/> 
   <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logoColor=white" alt="Matplotlib"/> 
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white" alt="Seaborn"/> 
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/> 
-  <img src="https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=dash&logoColor=white" alt="Dash"/> 
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
 </details>
