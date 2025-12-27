@@ -150,7 +150,7 @@ Current Mission:
 
 ## 🚀 Featured Projects
 
-### [NiFi CI/CD Pipeline](https://github.com/saadkhalmadani/nifi-cicd-pipeline)
+### [NiFi CI/CD Pipeline]([https://github.com/saadkhalmadani/nifi-cicd-pipeline](https://github.com/dataops-g1p2/nificicd-g1p2.git))
 > **Enterprise-Grade Data Flow Automation Platform**
 
 <div align="left">
@@ -278,10 +278,4 @@ Monitoring: Real-time metrics • Data quality validation • Alert systems
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-khalmadani)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadkhalmadani)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
