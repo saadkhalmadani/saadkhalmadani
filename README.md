@@ -234,31 +234,29 @@ Monitoring: Real-time metrics • Data quality validation • Alert systems
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saadkhalmadani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/saadkhalmadani)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saadkhalmadani&theme=tokyonight&hide_border=true)](https://github.com/saadkhalmadani)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadkhalmadani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/saadkhalmadani)
-
-</div>
-
-<details>
-<summary>Alternative Stats View</summary>
-<br>
-
-<div align="center">
+### 📈 Contribution Overview
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadkhalmadani&theme=tokyonight)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadkhalmadani&theme=tokyonight)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saadkhalmadani&theme=tokyonight&utcOffset=1)
+### 🔥 Streak & Activity
 
-![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadkhalmadani&theme=tokyonight)
-![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saadkhalmadani&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saadkhalmadani&theme=tokyonight&hide_border=true)](https://github.com/saadkhalmadani)
+
+### 📊 Detailed Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadkhalmadani&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saadkhalmadani&theme=tokyonight&utcOffset=1" alt="Productive Time" />
+</p>
+
+### 💻 Language Distribution
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadkhalmadani&theme=tokyonight" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saadkhalmadani&theme=tokyonight" alt="Top Languages by Commit" />
+</p>
 
 </div>
-
-</details>
 
 ---
 
