@@ -231,8 +231,37 @@ Monitoring: Real-time metrics • Data quality validation • Alert systems
 
 ---
 
-## GitHub Analytics 
-<div align="center"> <!-- GitHub Stats --> <img width="60%" src="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" /> <br/> <!-- GitHub Streak --> <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=saadkhalmadani&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> <br/> <!-- Top Languages --> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadkhalmadani&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" alt="Top Languages" /> </div>
+## GitHub Analytics  
+
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img
+    width="60%"
+    src="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
+
+  <br/>
+
+  <!-- GitHub Streak -->
+  <img
+    width="60%"
+    src="https://github-readme-streak-stats.herokuapp.com?user=saadkhalmadani&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+
+  <br/>
+
+  <!-- Top Languages -->
+  <img
+    width="45%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadkhalmadani&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400"
+    alt="Top Languages"
+  />
+
+</div>
+
 
 
 
