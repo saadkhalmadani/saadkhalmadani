@@ -259,17 +259,6 @@ Monitoring: Real-time metrics • Data quality validation • Alert systems
 
 </div>
 
----
-
-## 🌱 Currently Exploring  
-
-<div align="left">
-
-| Focus Area | Technologies | Learning Path |
-|:---:|:---:|:---:|
-| **Cloud-Native** | Kubernetes • Terraform | Container orchestration |
-
-</div>
 
 ---
 
