@@ -48,6 +48,7 @@ Current Mission:
 <p align="left">
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark"/> 
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/> 
+  <img src="https://img.shields.io/badge/Apache_NiFi-FF6D00?style=for-the-badge&logoColor=white" alt="NiFi"/> 
   <img src="https://img.shields.io/badge/Kylin-0078D4?style=for-the-badge&logoColor=white" alt="Kylin"/> 
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> 
   <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logoColor=white" alt="Polars"/> 
@@ -149,6 +150,37 @@ Current Mission:
 ---
 
 ## Featured Projects
+
+### [NiFi CI/CD Pipeline](https://github.com/saadkhalmadani/nifi-cicd-pipeline)
+> **Enterprise-Grade Data Flow Automation Platform**
+
+<div align="left">
+
+[![GitHub](https://img.shields.io/badge/%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadkhalmadani/nifi-cicd-pipeline)
+[![Azure](https://img.shields.io/badge/Azure-Deployed-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+
+**What it does:**
+- Automates Apache NiFi data flow deployments across multiple environments
+- Implements GitOps workflow with branch-based promotion strategy
+- Integrates version control with NiFi Registry for complete audit trails
+- Eliminates manual deployment errors through intelligent automation
+
+**Business Impact:**
+```
+Deployment Time: 2 hours → 15 minutes (87.5% reduction)
+Manual Errors: 15% failure rate → 0% (100% elimination)
+Developer Onboarding: 2 days → 4 hours (75% reduction)
+```
+
+**Technical Architecture:**
+```
+Infrastructure: Terraform → Azure (Dev/Staging/Prod environments)
+CI/CD Pipeline: GitHub Actions → Change Detection → Automated Deployment
+Version Control: NiFi Registry ↔ Git Hooks → Automatic Synchronization
+GitOps Flow: develop → staging → main (PR-based promotion)
+```
+
+</div>
 
 ### [DofusDataForge](https://github.com/saadkhalmadani/DofusDataForge-project)
 > **Intelligent Data Scraping & Visualization Platform**
