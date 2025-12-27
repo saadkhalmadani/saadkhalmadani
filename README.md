@@ -150,10 +150,13 @@ Current Mission:
 
 ## 🚀 Featured Projects
 
-### [NiFi CI/CD Pipeline]([https://github.com/dataops-g1p2/nificicd-g1p2.git)
+### [NiFi CI/CD Pipeline](https://github.com/dataops-g1p2/nificicd-g1p2)
 > **Enterprise-Grade Data Flow Automation Platform**
 
 <div align="left">
+
+[![GitHub](https://img.shields.io/badge/%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dataops-g1p2/nificicd-g1p2)
+[![Azure](https://img.shields.io/badge/Azure-Deployed-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 
 **What it does:**
 - Automates Apache NiFi data flow deployments across multiple environments
@@ -275,4 +278,10 @@ Monitoring: Real-time metrics • Data quality validation • Alert systems
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-khalmadani)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadkhalmadani)
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
