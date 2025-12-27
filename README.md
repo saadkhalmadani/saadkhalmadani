@@ -14,7 +14,9 @@
 
 ## My name is Saad! 
 
-**Data Engineer** from Morocco 🇲🇦 passionate about transforming raw data into actionable insights through **automated, scalable, and reliable data infrastructure**.
+**DevOps Engineer & Cloud Enthusiast (Azure) | Data Engineer (Python, SQL, Spark, Airflow)**
+
+Based in Morocco 🇲🇦, I'm passionate about transforming raw data into actionable insights through **automated, scalable, and reliable data infrastructure**.
 
 I architect end-to-end data solutions that bridge the gap between **data engineering** and **DevOps**, ensuring data flows seamlessly from source to insight with enterprise-grade reliability.
 
@@ -277,10 +279,4 @@ Monitoring: Real-time metrics • Data quality validation • Alert systems
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-khalmadani)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadkhalmadani)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
