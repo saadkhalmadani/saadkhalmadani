@@ -156,7 +156,6 @@ Current Mission:
 <div align="left">
 
 [![GitHub](https://img.shields.io/badge/%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dataops-g1p2/nificicd-g1p2)
-[![Azure](https://img.shields.io/badge/Azure-Deployed-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 
 **What it does:**
 - Automates Apache NiFi data flow deployments across multiple environments
