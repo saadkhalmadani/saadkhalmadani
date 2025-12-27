@@ -234,13 +234,31 @@ Monitoring: Real-time metrics • Data quality validation • Alert systems
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saadkhalmadani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/saadkhalmadani)
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=saadkhalmadani&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saadkhalmadani&theme=tokyonight&hide_border=true)](https://github.com/saadkhalmadani)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadkhalmadani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadkhalmadani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/saadkhalmadani)
 
 </div>
+
+<details>
+<summary>Alternative Stats View</summary>
+<br>
+
+<div align="center">
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadkhalmadani&theme=tokyonight)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadkhalmadani&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saadkhalmadani&theme=tokyonight&utcOffset=1)
+
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadkhalmadani&theme=tokyonight)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saadkhalmadani&theme=tokyonight)
+
+</div>
+
+</details>
 
 ---
 
