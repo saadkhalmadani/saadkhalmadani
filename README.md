@@ -231,31 +231,14 @@ Monitoring: Real-time metrics • Data quality validation • Alert systems
 
 ---
 
-## GitHub Analytics  
+## GitHub Analytics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-    width="60%"
-    alt="GitHub Stats"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saadkhalmadani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=saadkhalmadani&theme=tokyonight&hide_border=true"
-    width="60%"
-    alt="GitHub Streak"
-  />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saadkhalmadani&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadkhalmadani&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
-    width="45%"
-    alt="Top Languages"
-  />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadkhalmadani&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
 
 ---
 
