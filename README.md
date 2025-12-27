@@ -7,11 +7,10 @@
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=saadkhalmadani43&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/saadkhalmadani)
+[![Profile Views](https://komarev.com/ghpvc/?username=saadkhalmadani&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/saadkhalmadani)
 ![GitHub followers](https://img.shields.io/github/followers/saadkhalmadani?style=for-the-badge&color=orange&labelColor=black)
 
 </div>
-
 
 ## My name is Saad! 
 
@@ -31,7 +30,7 @@ Current Mission:
 
 ---
 
-## Tech Stack  
+## 🛠️ Tech Stack  
 
 <details>
 <summary>Programming & Scripting</summary>
@@ -149,7 +148,7 @@ Current Mission:
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### [NiFi CI/CD Pipeline](https://github.com/saadkhalmadani/nifi-cicd-pipeline)
 > **Enterprise-Grade Data Flow Automation Platform**
@@ -231,34 +230,42 @@ Monitoring: Real-time metrics • Data quality validation • Alert systems
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadkhalmadani&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=saadkhalmadani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=saadkhalmadani&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadkhalmadani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+
+</div>
 
 ---
 
-## Currently Exploring  
+## 🌱 Currently Exploring  
 
 <div align="left">
 
 | Focus Area | Technologies | Learning Path |
 |:---:|:---:|:---:|
 | **Cloud-Native** | Kubernetes • Terraform | Container orchestration |
+
 </div>
 
 ---
 
-<div align="left">  
-  <h3>Let's Connect & Build Something Amazing!</h3>
+<div align="center">  
+  <h3>💬 Let's Connect & Build Something Amazing!</h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-khalmadani)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadkhalmadani)
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
