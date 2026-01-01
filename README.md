@@ -56,6 +56,7 @@ Current Mission:
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark"/> 
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> 
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/>
+  <img src="https://cdn.simpleicons.org/apachenifi/017CEE" width="40"/>
   <img src="https://img.shields.io/badge/Databricks-F16726?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
 </p>
 </details>
