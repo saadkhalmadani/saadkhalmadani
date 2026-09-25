@@ -175,7 +175,7 @@ NiFi Registry and Git hooks keep everything synchronized automatically
 ### Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saadkhalmadani&theme=algolia&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saadkhalmadani&theme=flat&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 </div>
