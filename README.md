@@ -32,12 +32,21 @@ Currently focused on:
 
 ## Career snapshot
 
-| Period | Role | Focus |
-|---|---|---|
-| Feb 2026 – Present | DevOps Engineer, DXC Technology | Azure infrastructure, Terraform/Ansible, CI/CD, self-healing deployments |
-| Dec 2025 – Feb 2026 | DataOps Engineer (Intern), DXC Technology | Apache NiFi CI/CD, GitOps, cut deployment time by 87.5% |
-| Aug 2025 – Feb 2026 | DataOps Specialist Bootcamp, Ark-x Talent Solutions | CI/CD, IaC, monitoring, end-to-end data pipelines |
-| Apr 2023 – Dec 2024 | Freelance DevOps & Data Engineer | ETL automation, Linux server management, CI/CD for clients |
+**DevOps Engineer — DXC Technology**
+*Feb 2026 – Present*
+Azure infrastructure, Terraform/Ansible, CI/CD, self-healing deployments
+
+**DataOps Engineer (Intern) — DXC Technology**
+*Dec 2025 – Feb 2026*
+Apache NiFi CI/CD, GitOps, cut deployment time by 87.5%
+
+**DataOps Specialist Bootcamp — Ark-x Talent Solutions**
+*Aug 2025 – Feb 2026*
+CI/CD, IaC, monitoring, end-to-end data pipelines
+
+**Freelance DevOps & Data Engineer — Self-employed**
+*Apr 2023 – Dec 2024*
+ETL automation, Linux server management, CI/CD for clients
 
 Full resume available on request or via [LinkedIn](https://www.linkedin.com/in/saad-khalmadani).
 
@@ -45,9 +54,12 @@ Full resume available on request or via [LinkedIn](https://www.linkedin.com/in/s
 
 ## Certifications
 
-- AZ-104: Azure Administrator (in progress) — Microsoft
-- AZ-400: DevOps Engineer Expert (in progress) — Microsoft
-- GH-500: GitHub Advanced Security (in progress) — Microsoft
+**In progress**
+- AZ-104: Azure Administrator — Microsoft
+- AZ-400: DevOps Engineer Expert — Microsoft
+- GH-500: GitHub Advanced Security — Microsoft
+
+**Completed**
 - Introduction to Continuous Delivery and GitOps using Argo CD — AKUITY
 - Introduction to GitOps — The Linux Foundation
 - Terraform Expedition: Exploring Infrastructure as Code — Codecademy
