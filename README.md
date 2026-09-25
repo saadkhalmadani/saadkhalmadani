@@ -1,4 +1,3 @@
-## Hi there
 <div align="center">
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
@@ -7,10 +6,12 @@
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=saadkhalmadani&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/saadkhalmadani)
-![GitHub followers](https://img.shields.io/github/followers/saadkhalmadani?style=for-the-badge&color=orange&labelColor=black)
+[![Profile Views](https://komarev.com/ghpvc/?username=saadkhalmadani&label=Profile%20Views&color=2E86AB&style=for-the-badge)](https://github.com/saadkhalmadani)
+![GitHub followers](https://img.shields.io/github/followers/saadkhalmadani?style=for-the-badge&color=2E86AB&labelColor=black)
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2E86AB&height=3&section=header"/>
 
 ## Hey, I'm Saad
 
@@ -18,17 +19,16 @@ I'm a DevOps engineer based in Morocco, working primarily with Azure. I focus on
 
 My approach is simple: if a task is done manually more than a couple of times, it should be automated.
 
-```yaml
-What I believe:
-  "If it's not automated, it's not finished."
-  "Without monitoring, you find out about problems from users, not dashboards."
+> *"If it's not automated, it's not finished."*
+> *"Without monitoring, you find out about problems from users, not dashboards."*
 
+```yaml
 Currently focused on:
   Building deployment pipelines that require minimal manual intervention
   and fail loudly rather than silently.
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2E86AB&height=3&section=header"/>
 
 ## Career snapshot
 
@@ -41,7 +41,7 @@ Currently focused on:
 
 Full resume available on request or via [LinkedIn](https://www.linkedin.com/in/saad-khalmadani).
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2E86AB&height=3&section=header"/>
 
 ## Certifications
 
@@ -52,7 +52,7 @@ Full resume available on request or via [LinkedIn](https://www.linkedin.com/in/s
 - Introduction to GitOps — The Linux Foundation
 - Terraform Expedition: Exploring Infrastructure as Code — Codecademy
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2E86AB&height=3&section=header"/>
 
 ## What I work with
 
@@ -111,7 +111,7 @@ Full resume available on request or via [LinkedIn](https://www.linkedin.com/in/s
 </p>
 </details>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2E86AB&height=3&section=header"/>
 
 ## A project I'm proud of
 
@@ -144,7 +144,7 @@ NiFi Registry and Git hooks keep everything synchronized automatically
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2E86AB&height=3&section=header"/>
 
 ## GitHub stats
 
@@ -172,9 +172,15 @@ NiFi Registry and Git hooks keep everything synchronized automatically
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saadkhalmadani&theme=tokyonight" alt="Top Languages by Commit" />
 </p>
 
+### Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saadkhalmadani&theme=algolia&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>
+
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2E86AB&height=3&section=header"/>
 
 <div align="center">  
   <h3>Get in touch</h3>
