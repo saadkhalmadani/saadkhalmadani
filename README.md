@@ -30,8 +30,6 @@ Currently focused on:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2E86AB&height=3&section=header"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2E86AB&height=3&section=header"/>
-
 ## Certifications
 
 **Microsoft**
