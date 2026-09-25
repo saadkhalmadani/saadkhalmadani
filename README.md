@@ -172,12 +172,6 @@ NiFi Registry and Git hooks keep everything synchronized automatically
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saadkhalmadani&theme=tokyonight" alt="Top Languages by Commit" />
 </p>
 
-### Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saadkhalmadani&theme=flat&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2E86AB&height=3&section=header"/>
