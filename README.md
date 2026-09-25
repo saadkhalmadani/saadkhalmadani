@@ -3,7 +3,7 @@
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2E86AB&center=true&vCenter=true&width=900&height=80&lines=DevOps+Engineer+based+in+Morocco+%F0%9F%87%B2%F0%9F%87%A6;I+automate+infra+so+I+don't+have+to+babysit+it;Terraform+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Azure;Always+tinkering+with+something+%E2%9A%A1" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2E86AB&center=true&vCenter=true&width=900&height=80&lines=DevOps+Engineer+based+in+Morocco+%F0%9F%87%B2%F0%9F%87%A6;Automating+infrastructure%2C+one+pipeline+at+a+time;Terraform+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Azure;Focused+on+reliable%2C+repeatable+deployments" alt="Typing Animation" />
 
 <br>
 
@@ -14,18 +14,18 @@
 
 ## Hey, I'm Saad
 
-I'm a DevOps engineer based in Morocco 🇲🇦, working mostly with Azure. I like taking messy, manual deployment processes and turning them into something that just works: provisioning, containers, CI/CD, monitoring, the whole chain.
+I'm a DevOps engineer based in Morocco 🇲🇦, working primarily with Azure. I focus on turning manual, error-prone deployment processes into automated, reliable pipelines: provisioning, containerization, CI/CD, and monitoring.
 
-Most of what I do comes down to one idea: if I'm doing something by hand more than twice, it should probably be a script or a pipeline instead.
+My approach is simple: if a task is done manually more than a couple of times, it should be automated.
 
 ```yaml
-What I actually believe:
-  "If it's not automated, it's not done yet."
-  "No monitoring means you find out from a user, not a dashboard."
+What I believe:
+  "If it's not automated, it's not finished."
+  "Without monitoring, you find out about problems from users, not dashboards."
 
-Right now I'm focused on:
-  Getting better at building deployment pipelines that don't need
-  babysitting, and that fail loudly instead of silently.
+Currently focused on:
+  Building deployment pipelines that require minimal manual intervention
+  and fail loudly rather than silently.
 ```
 
 ---
@@ -92,7 +92,7 @@ Right now I'm focused on:
 ## 🚀 A project I'm proud of
 
 ### [NiFi CI/CD Pipeline](https://github.com/dataops-g1p2/nificicd-g1p2)
-> Automating Apache NiFi deployments so nobody has to click through the UI in production ever again
+> Automating Apache NiFi deployments so manual UI configuration is no longer required in production
 
 <div align="left">
 
@@ -100,22 +100,22 @@ Right now I'm focused on:
 
 **What it does:**
 - Automates NiFi deployments across Dev, Staging, and Production
-- Uses a GitOps flow with branch-based promotion (develop → staging → main)
-- Ties into NiFi Registry so every change is version-controlled and traceable
-- Cuts out the manual deployment steps that used to cause most of our errors
+- Uses a GitOps workflow with branch-based promotion (develop → staging → main)
+- Integrates with NiFi Registry so every change is version-controlled and traceable
+- Removes the manual deployment steps that previously caused most errors
 
-**Before / after:**
+**Results:**
 ```
 Deployment time: 2 hours → 15 minutes
-Manual/human errors: gone
-Onboarding a new dev to the pipeline: 2 days → about 4 hours
+Manual/human errors: eliminated
+Onboarding time for a new developer: 2 days → about 4 hours
 ```
 
-**How it's wired together:**
+**Architecture:**
 ```
 Terraform provisions the Azure environments (Dev/Staging/Prod)
-GitHub Actions detects changes and triggers the deployment
-NiFi Registry + Git hooks keep everything in sync automatically
+GitHub Actions detects changes and triggers deployment
+NiFi Registry and Git hooks keep everything synchronized automatically
 ```
 
 </div>
@@ -153,7 +153,7 @@ NiFi Registry + Git hooks keep everything in sync automatically
 ---
 
 <div align="center">  
-  <h3>💬 Reach out</h3>
+  <h3>💬 Get in touch</h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-khalmadani)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadkhalmadani)
