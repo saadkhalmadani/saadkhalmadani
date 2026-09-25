@@ -3,7 +3,7 @@
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2E86AB&center=true&vCenter=true&width=900&height=80&lines=DevOps+Engineer+based+in+Morocco+%F0%9F%87%B2%F0%9F%87%A6;Automating+infrastructure%2C+one+pipeline+at+a+time;Terraform+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Azure;Focused+on+reliable%2C+repeatable+deployments" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2E86AB&center=true&vCenter=true&width=900&height=80&lines=DevOps+Engineer+%7C+Cloud+Infrastructure+Expert;Building+Automated%2C+Self-Healing+Systems+%F0%9F%9A%80;Terraform+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Azure+Master;Turning+Manual+Ops+Into+Reliable+Pipelines+%E2%9A%A1" alt="DevOps Engineer Typing Animation" />
 
 <br>
 
