@@ -3,7 +3,7 @@
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2E86AB&center=true&vCenter=true&width=900&height=80&lines=Junior+DevOps+Engineer;Learning+Terraform%2C+Docker+%26+Kubernetes;Still+figuring+things+out+%E2%80%94+one+pipeline+at+a+time" alt="DevOps Engineer Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2E86AB&center=true&vCenter=true&width=900&height=80&lines=DevOps+Engineer+based+in+Morocco+%F0%9F%87%B2%F0%9F%87%A6;I+automate+infra+so+I+don't+have+to+babysit+it;Terraform+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Azure;Always+tinkering+with+something+%E2%9A%A1" alt="Typing Animation" />
 
 <br>
 
@@ -12,24 +12,25 @@
 
 </div>
 
-## My name is Saad
+## Hey, I'm Saad
 
-I'm a DevOps Engineer based in Morocco 🇲🇦, with about 2 years of hands-on experience so far — a mix of internships and a first full-time role.
+I'm a DevOps engineer based in Morocco 🇲🇦, working mostly with Azure. I like taking messy, manual deployment processes and turning them into something that just works: provisioning, containers, CI/CD, monitoring, the whole chain.
 
-I like automating the boring, repetitive stuff and making infrastructure a little more predictable. Most of what I know I picked up by breaking things in Azure, fixing them, and writing it all down so I don't repeat the same mistake twice.
+Most of what I do comes down to one idea: if I'm doing something by hand more than twice, it should probably be a script or a pipeline instead.
 
 ```yaml
-What I'm working on:
-  Getting more comfortable with Kubernetes and GitOps workflows
-  Learning to write infrastructure that doesn't need babysitting
-  Still improving at monitoring/observability — a work in progress
+What I actually believe:
+  "If it's not automated, it's not done yet."
+  "No monitoring means you find out from a user, not a dashboard."
+
+Right now I'm focused on:
+  Getting better at building deployment pipelines that don't need
+  babysitting, and that fail loudly instead of silently.
 ```
 
 ---
 
-## 🛠️ Tech Stack
-
-*Things I use regularly — not claiming mastery, just comfortable enough to get the job done.*
+## 🛠️ What I work with
 
 <details>
 <summary>Programming & Scripting</summary>
@@ -57,4 +58,104 @@ What I'm working on:
 <summary>CI/CD & Version Control</summary>
 <br>
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/> 
+  <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD"/> 
+  <img src="https://img.shields.io/badge/Apache_NiFi-FF6D00?style=for-the-badge&logoColor=white" alt="NiFi"/>
+</p>
+</details>
+
+<details>
+<summary>Monitoring & Observability</summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/> 
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+</p>
+</details>
+
+<details>
+<summary>Databases & Secrets Management</summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> 
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> 
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> 
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/> 
+  <img src="https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Key Vault"/>
+  <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="Vault"/>
+</p>
+</details>
+
+---
+
+## 🚀 A project I'm proud of
+
+### [NiFi CI/CD Pipeline](https://github.com/dataops-g1p2/nificicd-g1p2)
+> Automating Apache NiFi deployments so nobody has to click through the UI in production ever again
+
+<div align="left">
+
+[![GitHub](https://img.shields.io/badge/%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dataops-g1p2/nificicd-g1p2)
+
+**What it does:**
+- Automates NiFi deployments across Dev, Staging, and Production
+- Uses a GitOps flow with branch-based promotion (develop → staging → main)
+- Ties into NiFi Registry so every change is version-controlled and traceable
+- Cuts out the manual deployment steps that used to cause most of our errors
+
+**Before / after:**
+```
+Deployment time: 2 hours → 15 minutes
+Manual/human errors: gone
+Onboarding a new dev to the pipeline: 2 days → about 4 hours
+```
+
+**How it's wired together:**
+```
+Terraform provisions the Azure environments (Dev/Staging/Prod)
+GitHub Actions detects changes and triggers the deployment
+NiFi Registry + Git hooks keep everything in sync automatically
+```
+
+</div>
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+### 📈 Contribution overview
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadkhalmadani&theme=tokyonight)
+
+### 🔥 Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saadkhalmadani&theme=tokyonight&hide_border=true)](https://github.com/saadkhalmadani)
+
+### 📊 Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadkhalmadani&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saadkhalmadani&theme=tokyonight&utcOffset=1" alt="Productive Time" />
+</p>
+
+### 💻 Languages
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadkhalmadani&theme=tokyonight" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saadkhalmadani&theme=tokyonight" alt="Top Languages by Commit" />
+</p>
+
+</div>
+
+---
+
+<div align="center">  
+  <h3>💬 Reach out</h3>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-khalmadani)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadkhalmadani)
+
+</div>
