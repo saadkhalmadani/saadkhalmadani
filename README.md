@@ -30,39 +30,23 @@ Currently focused on:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2E86AB&height=3&section=header"/>
 
-## Career snapshot
-
-**DevOps Engineer — DXC Technology**
-*Feb 2026 – Present*
-Azure infrastructure, Terraform/Ansible, CI/CD, self-healing deployments
-
-**DataOps Engineer (Intern) — DXC Technology**
-*Dec 2025 – Feb 2026*
-Apache NiFi CI/CD, GitOps, cut deployment time by 87.5%
-
-**DataOps Specialist Bootcamp — Ark-x Talent Solutions**
-*Aug 2025 – Feb 2026*
-CI/CD, IaC, monitoring, end-to-end data pipelines
-
-**Freelance DevOps & Data Engineer — Self-employed**
-*Apr 2023 – Dec 2024*
-ETL automation, Linux server management, CI/CD for clients
-
-Full resume available on request or via [LinkedIn](https://www.linkedin.com/in/saad-khalmadani).
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2E86AB&height=3&section=header"/>
 
 ## Certifications
 
-**In progress**
-- AZ-104: Azure Administrator — Microsoft
-- AZ-400: DevOps Engineer Expert — Microsoft
-- GH-500: GitHub Advanced Security — Microsoft
+**Microsoft**
+- AZ-104: Azure Administrator (in progress)
+- AZ-400: DevOps Engineer Expert (in progress)
+- GH-500: GitHub Advanced Security (in progress)
 
-**Completed**
-- Introduction to Continuous Delivery and GitOps using Argo CD — AKUITY
-- Introduction to GitOps — The Linux Foundation
-- Terraform Expedition: Exploring Infrastructure as Code — Codecademy
+**AKUITY**
+- Introduction to Continuous Delivery and GitOps using Argo CD
+
+**The Linux Foundation**
+- Introduction to GitOps
+
+**Codecademy**
+- Terraform Expedition: Exploring Infrastructure as Code
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2E86AB&height=3&section=header"/>
 
