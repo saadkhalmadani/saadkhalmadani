@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi there
 <div align="center">
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2E86AB&center=true&vCenter=true&width=900&height=80&lines=DevOps+Engineer+%7C+Cloud+Infrastructure+Enthusiast;Building+Automated%2C+Self-Healing+Systems+%F0%9F%9A%80;Terraform+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Azure;Turning+Manual+Ops+Into+Reliable+Pipelines+%E2%9A%A1" alt="DevOps Engineer Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2E86AB&center=true&vCenter=true&width=900&height=80&lines=DevOps+Engineer+%7C+Cloud+Infrastructure+Enthusiast;Building+Automated%2C+Self-Healing+Systems;Terraform+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Azure;Turning+Manual+Ops+Into+Reliable+Pipelines" alt="DevOps Engineer Typing Animation" />
 
 <br>
 
@@ -14,7 +14,7 @@
 
 ## Hey, I'm Saad
 
-I'm a DevOps engineer based in Morocco 🇲🇦, working primarily with Azure. I focus on turning manual, error-prone deployment processes into automated, reliable pipelines: provisioning, containerization, CI/CD, and monitoring.
+I'm a DevOps engineer based in Morocco, working primarily with Azure. I focus on turning manual, error-prone deployment processes into automated, reliable pipelines: provisioning, containerization, CI/CD, and monitoring.
 
 My approach is simple: if a task is done manually more than a couple of times, it should be automated.
 
@@ -30,7 +30,7 @@ Currently focused on:
 
 ---
 
-## 🛠️ What I work with
+## What I work with
 
 <details>
 <summary>Programming & Scripting</summary>
@@ -89,7 +89,7 @@ Currently focused on:
 
 ---
 
-## 🚀 A project I'm proud of
+## A project I'm proud of
 
 ### [NiFi CI/CD Pipeline](https://github.com/dataops-g1p2/nificicd-g1p2)
 > Automating Apache NiFi deployments so manual UI configuration is no longer required in production
@@ -122,26 +122,26 @@ NiFi Registry and Git hooks keep everything synchronized automatically
 
 ---
 
-## 📊 GitHub stats
+## GitHub stats
 
 <div align="center">
 
-### 📈 Contribution overview
+### Contribution overview
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadkhalmadani&theme=tokyonight)
 
-### 🔥 Streak
+### Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saadkhalmadani&theme=tokyonight&hide_border=true)](https://github.com/saadkhalmadani)
 
-### 📊 Stats
+### Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadkhalmadani&theme=tokyonight" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saadkhalmadani&theme=tokyonight&utcOffset=1" alt="Productive Time" />
 </p>
 
-### 💻 Languages
+### Languages
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadkhalmadani&theme=tokyonight" alt="Top Languages by Repo" />
@@ -153,7 +153,7 @@ NiFi Registry and Git hooks keep everything synchronized automatically
 ---
 
 <div align="center">  
-  <h3>💬 Get in touch</h3>
+  <h3>Get in touch</h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-khalmadani)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadkhalmadani)
