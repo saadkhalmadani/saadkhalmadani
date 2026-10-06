@@ -8,6 +8,12 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=saadkhalmadani&label=Profile%20Views&color=2E86AB&style=for-the-badge)](https://github.com/saadkhalmadani)
 ![GitHub followers](https://img.shields.io/github/followers/saadkhalmadani?style=for-the-badge&color=2E86AB&labelColor=black)
+![Location](https://img.shields.io/badge/Based_in-Morocco-2E86AB?style=for-the-badge&labelColor=black)
+![Focus](https://img.shields.io/badge/Focus-Azure_%7C_DevOps-2E86AB?style=for-the-badge&labelColor=black)
+
+<br>
+
+[**About**](#hey-im-saad) &nbsp;•&nbsp; [**How I Work**](#how-i-work) &nbsp;•&nbsp; [**Certifications**](#certifications) &nbsp;•&nbsp; [**Skills**](#what-i-work-with) &nbsp;•&nbsp; [**Project**](#a-project-im-proud-of) &nbsp;•&nbsp; [**Stats**](#github-stats) &nbsp;•&nbsp; [**Contact**](#get-in-touch)
 
 </div>
 
@@ -30,21 +36,28 @@ Currently focused on:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2E86AB&height=3&section=header"/>
 
+## How I work
+
+| Principle | In practice |
+|-----------|-------------|
+| **Automate repetition** | Anything done by hand more than a couple of times becomes code or a pipeline |
+| **Infrastructure as Code** | Environments are provisioned with Terraform, so they are versioned and reproducible |
+| **GitOps over clicking** | Git is the source of truth, and changes are promoted through branches |
+| **Fail loudly** | Pipelines should surface problems immediately instead of hiding them |
+| **Monitor everything** | Prometheus and Grafana, so problems show up on dashboards before users report them |
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2E86AB&height=3&section=header"/>
+
 ## Certifications
 
-**Microsoft**
-- AZ-104: Azure Administrator (in progress)
-- AZ-400: DevOps Engineer Expert (in progress)
-- GH-500: GitHub Advanced Security (in progress)
-
-**AKUITY**
-- Introduction to Continuous Delivery and GitOps using Argo CD
-
-**The Linux Foundation**
-- Introduction to GitOps
-
-**Codecademy**
-- Terraform Expedition: Exploring Infrastructure as Code
+| Certification | Issuer | Status |
+|---------------|--------|--------|
+| ![AZ-104](https://img.shields.io/badge/AZ--104-Azure_Administrator-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | Microsoft | In progress |
+| ![AZ-400](https://img.shields.io/badge/AZ--400-DevOps_Engineer_Expert-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | Microsoft | In progress |
+| ![GH-500](https://img.shields.io/badge/GH--500-GitHub_Advanced_Security-181717?style=flat-square&logo=github&logoColor=white) | Microsoft | In progress |
+| Introduction to Continuous Delivery and GitOps using Argo CD | AKUITY | Completed |
+| Introduction to GitOps | The Linux Foundation | Completed |
+| Terraform Expedition: Exploring Infrastructure as Code | Codecademy | Completed |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2E86AB&height=3&section=header"/>
 
@@ -105,6 +118,12 @@ Currently focused on:
 </p>
 </details>
 
+### Currently learning
+
+![Azure](https://img.shields.io/badge/Azure_Administration-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps_Engineering-0078D4?style=flat-square&logo=azure-devops&logoColor=white)
+![GitHub Security](https://img.shields.io/badge/GitHub_Advanced_Security-181717?style=flat-square&logo=github&logoColor=white)
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2E86AB&height=3&section=header"/>
 
 ## A project I'm proud of
@@ -116,6 +135,11 @@ Currently focused on:
 
 [![GitHub](https://img.shields.io/badge/%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dataops-g1p2/nificicd-g1p2)
 
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Apache NiFi](https://img.shields.io/badge/Apache_NiFi-FF6D00?style=flat-square&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
 **What it does:**
 - Automates NiFi deployments across Dev, Staging, and Production
 - Uses a GitOps workflow with branch-based promotion (develop → staging → main)
@@ -123,13 +147,27 @@ Currently focused on:
 - Removes the manual deployment steps that previously caused most errors
 
 **Results:**
-```
-Deployment time: 2 hours → 15 minutes
-Manual/human errors: eliminated
-Onboarding time for a new developer: 2 days → about 4 hours
-```
+
+| Metric | Before | After |
+|--------|--------|-------|
+| Deployment time | 2 hours | 15 minutes |
+| Manual/human errors | Frequent | Eliminated |
+| New developer onboarding | 2 days | About 4 hours |
 
 **Architecture:**
+
+```mermaid
+flowchart LR
+    TF[Terraform] -->|provisions| AZ[(Azure: Dev / Staging / Prod)]
+    DEV[develop branch] -->|merge| STG[staging branch]
+    STG -->|merge| MAIN[main branch]
+    DEV --> GHA[GitHub Actions]
+    STG --> GHA
+    MAIN --> GHA
+    GHA -->|deploys| NR[NiFi Registry]
+    NR -->|versioned flows| AZ
+```
+
 ```
 Terraform provisions the Azure environments (Dev/Staging/Prod)
 GitHub Actions detects changes and triggers deployment
@@ -170,10 +208,17 @@ NiFi Registry and Git hooks keep everything synchronized automatically
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2E86AB&height=3&section=header"/>
 
-<div align="center">  
-  <h3>Get in touch</h3>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-khalmadani)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadkhalmadani)
+## Get in touch
+
+<div align="center">
+
+Open to conversations about DevOps, automation, and cloud infrastructure.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-khalmadani)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadkhalmadani)
+
+<br>
+
+<sub>If it's not automated, it's not finished.</sub>
 
 </div>
