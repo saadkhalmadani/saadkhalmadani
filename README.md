@@ -50,7 +50,7 @@ Currently focused on:
 
 ## What I work with
 
-<details>
+<details open>
 <summary>Programming & Scripting</summary>
 <br>
 <p align="left">
@@ -59,7 +59,7 @@ Currently focused on:
 </p>
 </details>
 
-<details>
+<details open>
 <summary>Cloud & Infrastructure</summary>
 <br>
 <p align="left">
@@ -72,7 +72,7 @@ Currently focused on:
 </p>
 </details>
 
-<details>
+<details open>
 <summary>CI/CD & Version Control</summary>
 <br>
 <p align="left">
@@ -83,7 +83,7 @@ Currently focused on:
 </p>
 </details>
 
-<details>
+<details open>
 <summary>Monitoring & Observability</summary>
 <br>
 <p align="left">
@@ -92,7 +92,7 @@ Currently focused on:
 </p>
 </details>
 
-<details>
+<details open>
 <summary>Databases & Secrets Management</summary>
 <br>
 <p align="left">
